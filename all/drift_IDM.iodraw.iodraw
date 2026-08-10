@@ -90,7 +90,10 @@
           <mxGeometry x="700" y="313" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-33" value="Action Decoder" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="993" y="343.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="993" y="343.5" width="108" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-35" value="action chunk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="360.5" width="85" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
