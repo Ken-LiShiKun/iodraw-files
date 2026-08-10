@@ -48,7 +48,7 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-18" value="pred 8 latent z" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="707" y="319" width="94" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-19" value="state(4*34)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-19" value="未来frame(8*3*640*480)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="191" y="186" width="120" height="54" as="geometry" />
         </mxCell>
       </root>
