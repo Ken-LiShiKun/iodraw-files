@@ -45,11 +45,10 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-17" value="z_history" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="463" y="319" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-18" target="PLh1ITZx9KGFju5IgKZA-23">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-18" target="PLh1ITZx9KGFju5IgKZA-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="754" y="248" />
-              <mxPoint x="754" y="248" />
+              <mxPoint x="754" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -68,7 +67,7 @@
           <mxGeometry x="816" y="177.5" width="102" height="85.5" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-23" value="VAE DEcoder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="751.25" y="200" width="91" height="26" as="geometry" />
+          <mxGeometry x="823" y="210" width="91" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-25" value="&lt;span style=&quot;color: rgba(228, 228, 228, 0.92); font-family: system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, &amp;quot;Source Han Sans&amp;quot;, sans-serif; font-size: 13px; text-align: start; caret-color: color(srgb 0.894118 0.894118 0.894118 / 0.866275); background-color: rgb(24, 24, 24);&quot;&gt;z_history | z_noise&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="263" width="125" height="28" as="geometry" />
