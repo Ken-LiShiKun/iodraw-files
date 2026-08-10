@@ -78,8 +78,8 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-27" value="Future 8 frames" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="954" y="193" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-29" value="历史state(4*34)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="493" width="120" height="54" as="geometry" />
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-29" value="action noise(8*82)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="696" y="492" width="120" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
