@@ -66,11 +66,17 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-22" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="816" y="177.5" width="102" height="85.5" as="geometry" />
         </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-23" target="PLh1ITZx9KGFju5IgKZA-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-23" value="VAE DEcoder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="823" y="210" width="91" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-25" value="&lt;span style=&quot;color: rgba(228, 228, 228, 0.92); font-family: system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, &amp;quot;Source Han Sans&amp;quot;, sans-serif; font-size: 13px; text-align: start; caret-color: color(srgb 0.894118 0.894118 0.894118 / 0.866275); background-color: rgb(24, 24, 24);&quot;&gt;z_history | z_noise&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="263" width="125" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-27" value="Flow matching" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="954" y="193" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
