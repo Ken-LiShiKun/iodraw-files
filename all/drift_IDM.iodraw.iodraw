@@ -40,13 +40,13 @@
           <mxGeometry x="358" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-15" value="Flow matching" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="745" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="851" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-17" value="history_z" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="463" y="319" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="321" width="40" height="26" as="geometry" />
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-18" value="pred 8 latent z" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="653" y="321" width="94" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
