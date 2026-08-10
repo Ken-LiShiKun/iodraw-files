@@ -16,7 +16,7 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-7" value="VAE encoder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="372" y="327" width="88" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-8" value="历史frame*4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-8" value="历史frame(4*3*640*480)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="318" width="120" height="54" as="geometry" />
         </mxCell>
       </root>
