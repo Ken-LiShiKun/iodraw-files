@@ -57,10 +57,10 @@
           <mxGeometry x="191" y="186" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-22" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1033.75" y="297.25" width="102" height="85.5" as="geometry" />
+          <mxGeometry x="816" y="177.5" width="102" height="85.5" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-23" value="VAE DEcoder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1041" y="327" width="91" height="26" as="geometry" />
+          <mxGeometry x="751.25" y="200" width="91" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-25" value="&lt;span style=&quot;color: rgba(228, 228, 228, 0.92); font-family: system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, &amp;quot;Source Han Sans&amp;quot;, sans-serif; font-size: 13px; text-align: start; caret-color: color(srgb 0.894118 0.894118 0.894118 / 0.866275); background-color: rgb(24, 24, 24);&quot;&gt;z_history | z_noise&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="263" width="125" height="28" as="geometry" />
