@@ -45,7 +45,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-15" value="DIT FM（125M）" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="829" y="312" width="120" height="153" as="geometry" />
+          <mxGeometry x="830" y="311" width="120" height="153" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-17" value="z_history" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="463" y="319" width="66" height="26" as="geometry" />
@@ -87,16 +87,16 @@
           <mxGeometry x="701" y="377" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-32" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;pred 8 latent z&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="701" y="313" width="120" height="54" as="geometry" />
+          <mxGeometry x="701" y="319" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-33" target="PLh1ITZx9KGFju5IgKZA-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-33" value="Action Decoder" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="992" y="341.25" width="108" height="60" as="geometry" />
+          <mxGeometry x="992" y="357.5" width="108" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-37" value="Action Chunk" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="345.25" width="89" height="51.5" as="geometry" />
+          <mxGeometry x="1142" y="361.75" width="89" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-39" value="condition" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="652" y="487" width="66" height="26" as="geometry" />
