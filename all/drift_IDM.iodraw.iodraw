@@ -35,11 +35,11 @@
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="758" y="448" as="targetPoint" />
+            <mxPoint x="758" y="475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-10" value="State Encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="444" y="477" width="120" height="60" as="geometry" />
+          <mxGeometry x="445" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-15" target="PLh1ITZx9KGFju5IgKZA-33">
           <mxGeometry relative="1" as="geometry" />
