@@ -39,9 +39,6 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-10" value="State Encoder MLP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-15" target="PLh1ITZx9KGFju5IgKZA-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-15" value="Flow matching" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="823" y="310" width="120" height="60" as="geometry" />
         </mxCell>
