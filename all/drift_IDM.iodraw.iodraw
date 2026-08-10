@@ -38,7 +38,7 @@
             <mxPoint x="758" y="475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-10" value="State/language Encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-10" value="State/language Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="445" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-15" target="PLh1ITZx9KGFju5IgKZA-33">
@@ -68,7 +68,7 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-19" value="未来帧latent噪声 (8*4*120*160)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="191" y="186" width="120" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-22" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-22" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;rotation=-90;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="816" y="121" width="102" height="85.5" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-23" target="PLh1ITZx9KGFju5IgKZA-27">
