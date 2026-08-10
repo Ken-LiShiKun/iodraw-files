@@ -10,8 +10,10 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-1" value="历史state(4*34)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="191" y="483" width="120" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-2" target="PLh1ITZx9KGFju5IgKZA-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="706" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-2" value="Unet drift（130M）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="256" width="120" height="168" as="geometry" />
@@ -40,22 +42,20 @@
           <mxGeometry x="358" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-15" value="DIT FM" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="848" y="279.5" width="120" height="121" as="geometry" />
+          <mxGeometry x="914" y="283" width="120" height="121" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-17" value="z_history" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="463" y="319" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-18" target="PLh1ITZx9KGFju5IgKZA-22">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="PLh1ITZx9KGFju5IgKZA-22">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="754" y="327" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="754" y="166" />
               <mxPoint x="829" y="166" />
               <mxPoint x="829" y="164" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-18" value="pred 8 latent z" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="707" y="319" width="94" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-19" target="PLh1ITZx9KGFju5IgKZA-2">
           <mxGeometry relative="1" as="geometry">
@@ -82,6 +82,9 @@
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-29" value="action noise(8*82)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="696" y="492" width="120" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-32" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;pred 8 latent z&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="391" width="120" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
