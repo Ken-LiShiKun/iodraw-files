@@ -26,7 +26,8 @@
             <mxPoint x="701" y="434.53999999999996" as="targetPoint" />
             <mxPoint x="451.87999999999977" y="327.0113347921224" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="476" y="327" />
+              <mxPoint x="452" y="355" />
+              <mxPoint x="476" y="355" />
               <mxPoint x="476" y="435" />
             </Array>
           </mxGeometry>
@@ -93,7 +94,7 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-27" value="Future 8 frames" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="954" y="143.25" width="93" height="46.5" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-29" value="Current Multi-view images" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-29" value="concat latent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="701" y="417.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-32" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;pred 8 latent z&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
