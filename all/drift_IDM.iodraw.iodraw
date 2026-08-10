@@ -4,11 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-1" value="sa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-1" target="PLh1ITZx9KGFju5IgKZA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-1" value="历史state*4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="216" y="332" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-2" value="Unet（130M）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="118" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="416" y="329" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
