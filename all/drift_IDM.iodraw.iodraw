@@ -15,7 +15,7 @@
             <mxPoint x="706" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-2" value="Unet drift（130M）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-2" value="Unet drift（130M）" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="545" y="256" width="120" height="168" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-3" target="PLh1ITZx9KGFju5IgKZA-2">
@@ -96,7 +96,7 @@
           <mxGeometry x="992" y="341.25" width="108" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-37" value="Action Chunk" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="339.25" width="89" height="51.5" as="geometry" />
+          <mxGeometry x="1141" y="345.25" width="89" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-39" value="condition" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="652" y="487" width="66" height="26" as="geometry" />
