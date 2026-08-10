@@ -7,6 +7,9 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-1" value="&lt;span style=&quot;color: rgba(228, 228, 228, 0.92); font-family: system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, &amp;quot;Source Han Sans&amp;quot;, sans-serif; font-size: 13px; text-align: start; caret-color: color(srgb 0.894118 0.894118 0.894118 / 0.866275); text-wrap-mode: nowrap; background-color: rgb(24, 24, 24);&quot;&gt;历史 robot state ×4&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="162" y="167" width="120" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="258" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
