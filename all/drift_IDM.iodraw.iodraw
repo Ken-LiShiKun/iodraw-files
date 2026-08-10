@@ -5,13 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PLh1ITZx9KGFju5IgKZA-1" value="历史state*4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="216" y="332" width="120" height="54" as="geometry" />
+          <mxGeometry x="154" y="269" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-2" value="Unet（130M）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="118" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="477" y="332" width="120" height="60" as="geometry" />
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="354" y="321" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-5" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="533" y="287" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
