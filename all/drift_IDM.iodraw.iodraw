@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-1" value="历史state(4*34)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="480" width="120" height="54" as="geometry" />
+          <mxGeometry x="191" y="483" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-2" value="Unet（130M）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="310" width="120" height="60" as="geometry" />
@@ -24,6 +24,11 @@
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.692;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-8" target="PLh1ITZx9KGFju5IgKZA-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-10" value="State Encoder MLP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="480" width="120" height="60" as="geometry" />
