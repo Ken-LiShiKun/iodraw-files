@@ -98,8 +98,8 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-37" value="Action Chunk" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1125" y="347.75" width="89" height="51.5" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-39" value="condition on resblock" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="476" y="490" width="131" height="26" as="geometry" />
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-39" value="condition" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="509" y="490" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
