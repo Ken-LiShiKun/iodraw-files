@@ -94,7 +94,7 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-27" value="Future 8 frames" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="954" y="143.25" width="93" height="46.5" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-29" value="concat latent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-29" value="multiview latent z" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="701" y="417.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-32" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;pred 8 latent z&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -126,6 +126,9 @@
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-41" value="Multi-view images(n*3*640*480)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="383" width="120" height="76.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-48" value="concat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="501" y="429" width="53" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
