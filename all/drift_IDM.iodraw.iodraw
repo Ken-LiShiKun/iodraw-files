@@ -89,8 +89,14 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-32" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;pred 8 latent z&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="313" width="120" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-33" target="PLh1ITZx9KGFju5IgKZA-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-33" value="Action Decoder" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="993" y="343.5" width="108" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-37" value="Action Chunk" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="343.5" width="108" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
