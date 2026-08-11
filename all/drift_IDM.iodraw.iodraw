@@ -134,7 +134,7 @@
           <mxGeometry x="110" y="626" width="308" height="304" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-50" value="server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="531" y="626" width="308" height="304" as="geometry" />
+          <mxGeometry x="614" y="621" width="308" height="304" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-51" value="video get" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="124" y="639" width="87" height="54" as="geometry" />
@@ -143,7 +143,7 @@
           <mxGeometry x="220.5" y="639" width="87" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-53" value="c2s transport" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="672" width="87" height="28" as="geometry" />
+          <mxGeometry x="430" y="664" width="87" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
