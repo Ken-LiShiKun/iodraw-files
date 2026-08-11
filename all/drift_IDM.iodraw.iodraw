@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Glh_fe23yFEZleoUehxL">
-    <mxGraphModel dx="1145" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1382" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,7 +213,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-71" value="image encoder&lt;div&gt;(Reset first frame only)&lt;div&gt;0.07 s&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-71" value="image encoder&lt;div&gt;(Reset first frame only)&lt;div&gt;0.07 s&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="811.5" y="778" width="129" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-72" value="Parallel VAE decode&lt;div&gt;0.3 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -247,7 +247,7 @@
           <mxGeometry x="110" y="897.5" width="303" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-85" value="全流程耗时0.005+0.002+(0.06~0.15)+0.06+0.02+0.05+0.10+0.01+0.02 = (0.275~0.365)s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="969" width="491" height="26" as="geometry" />
+          <mxGeometry x="315" y="940" width="491" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-86" value="&lt;div&gt;scheduler 0.01 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1073" y="814" width="69" height="54" as="geometry" />
