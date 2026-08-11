@@ -133,13 +133,13 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="626" width="308" height="304" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="PLh1ITZx9KGFju5IgKZA-65">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.568;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-50" target="PLh1ITZx9KGFju5IgKZA-65">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="614" y="794" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="647" y="622" width="461" height="304" as="geometry" />
+          <mxGeometry x="619" y="622" width="489" height="304" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-51" value="video get +EPG编码&lt;div&gt;0.002 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="189" y="672" width="87" height="54" as="geometry" />
@@ -218,7 +218,7 @@
           <mxGeometry x="854" y="773.5" width="142" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-72" value="VAE decode&lt;div&gt;0.3 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="584.5" y="785" width="87" height="54" as="geometry" />
+          <mxGeometry x="628" y="773.5" width="87" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
