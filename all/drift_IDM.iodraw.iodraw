@@ -217,7 +217,7 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-71" value="image encoder&lt;div&gt;(Reset first frame only)&lt;div&gt;0.07 s&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="757" y="774" width="142" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-72" value="transform&lt;div&gt;0.06 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-72" value="decode&lt;div&gt;0.3 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="877.5" y="674.5" width="87" height="54" as="geometry" />
         </mxCell>
       </root>
