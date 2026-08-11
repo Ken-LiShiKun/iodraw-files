@@ -151,6 +151,9 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-53" value="c2s websockett" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="483" y="681" width="87" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-56" value="image pack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="631" y="637" width="87" height="54" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
