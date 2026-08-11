@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Glh_fe23yFEZleoUehxL">
-    <mxGraphModel dx="954" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="385" dy="222" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,11 +206,13 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-68" value="RTC action 48 steps&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;30HZ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;=1.6s&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="157.75" y="809.25" width="180.5" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-52" target="PLh1ITZx9KGFju5IgKZA-53">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="394" y="701.3999999999999" as="sourcePoint" />
+            <mxPoint x="483" y="702" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="702" />
-              <mxPoint x="426" y="702" />
+              <mxPoint x="382" y="701.9" />
+              <mxPoint x="438" y="701.9" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -241,7 +243,7 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-82" value="parallel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="199" y="752" width="57" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-83" value="JPEG编码&lt;div&gt;0.005s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-83" value="video get&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220.5" y="678" width="87" height="54" as="geometry" />
         </mxCell>
       </root>
