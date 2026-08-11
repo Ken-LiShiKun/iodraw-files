@@ -249,8 +249,8 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-85" value="全流程耗时0.005+0.002+(0.1~0.2)+0.06+0.02+0.06+0.10+0.05=0.35" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="353" y="969" width="383" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-86" value="VAE encode&lt;div&gt;0.02 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="839" width="87" height="54" as="geometry" />
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-86" value="&lt;div&gt;scheduler 0.03 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="839" width="69" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
