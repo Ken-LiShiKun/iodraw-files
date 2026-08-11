@@ -157,8 +157,8 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.031;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-57" target="PLh1ITZx9KGFju5IgKZA-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="648" y="829" />
-              <mxPoint x="573" y="829" />
+              <mxPoint x="648" y="833" />
+              <mxPoint x="648" y="832" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -218,7 +218,7 @@
           <mxGeometry x="808" y="778" width="129" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-72" value="VAE decode&lt;div&gt;0.3 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="598" y="895" width="87" height="54" as="geometry" />
+          <mxGeometry x="622" y="847" width="87" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
