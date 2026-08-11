@@ -139,7 +139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="621" width="461" height="304" as="geometry" />
+          <mxGeometry x="597.5" y="617" width="461" height="304" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-51" value="video get +EPG编码&lt;div&gt;0.002 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="189" y="672" width="87" height="54" as="geometry" />
