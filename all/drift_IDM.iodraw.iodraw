@@ -172,7 +172,7 @@
           <mxGeometry x="750.5" y="674.5" width="87" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-59" value="Dit forward&lt;div&gt;0.11 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="945" y="779" width="122" height="116" as="geometry" />
+          <mxGeometry x="945" y="778" width="122" height="119.5" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-60" value="kv cache creation&lt;div&gt;0.06 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="837.5" y="843.5" width="101.5" height="54" as="geometry" />
@@ -214,15 +214,6 @@
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-72" value="VAE decode&lt;div&gt;0.3 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="623" y="801.5" width="87" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-72" target="PLh1ITZx9KGFju5IgKZA-65">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="616" y="831.6719999999998" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="609" y="832" />
-              <mxPoint x="609" y="832" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
