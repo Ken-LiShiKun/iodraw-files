@@ -176,7 +176,7 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-58" value="transform&lt;div&gt;0.06 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750.5" y="674.5" width="87" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-59" value="Dit forward&lt;div&gt;0.11 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-59" value="Dit forward&lt;div&gt;0.10 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="945" y="778" width="122" height="119.5" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-60" value="kv cache creation&lt;div&gt;0.06 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -246,8 +246,8 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-84" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;如果是serial模式，loop中client耗时部分：JEPG编码+image打包&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="897.5" width="303" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-85" value="全流程耗时0.005+0.002+(0.1~0.2)+0.06+0.02+0.06+0.11+0..05=0.35" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="352" y="969" width="385" height="26" as="geometry" />
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-85" value="全流程耗时0.005+0.002+(0.1~0.2)+0.06+0.02+0.06+0.10+0.05=0.35" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="353" y="969" width="383" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
