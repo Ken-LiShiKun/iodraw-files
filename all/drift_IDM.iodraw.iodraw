@@ -153,14 +153,20 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-53" value="c2s websocket&lt;div&gt;0.1-0.2 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="483" y="681" width="87" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-56" target="PLh1ITZx9KGFju5IgKZA-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-56" value="image unpack&lt;div&gt;0.002 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="631" y="683" width="87" height="54" as="geometry" />
+          <mxGeometry x="628" y="674.5" width="87" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="624" y="786" width="379" height="126" as="geometry" />
         </mxCell>
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PLh1ITZx9KGFju5IgKZA-58" target="PLh1ITZx9KGFju5IgKZA-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-58" value="transform&lt;div&gt;0.06 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="734" y="683" width="87" height="54" as="geometry" />
+          <mxGeometry x="734" y="674.5" width="87" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-59" value="Dit forward&lt;div&gt;0.11 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="894" y="818" width="87" height="54" as="geometry" />
