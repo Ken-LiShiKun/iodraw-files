@@ -200,7 +200,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-65" value="s2c websocket&lt;div&gt;0.05s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-65" value="s2c websocket&lt;div&gt;0.02s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="483" y="811" width="87" height="41" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-68" value="RTC action 48 steps&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;30HZ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt;=1.6s&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -246,8 +246,8 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-84" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;如果是serial模式，loop中client耗时部分：JEPG编码+image打包&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="897.5" width="303" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-85" value="全流程耗时0.005+0.002+(0.06~0.15)+0.06+0.01+0.02+0.11+0.03+0.2 = (0.275~0.365)s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="319" y="940" width="483" height="26" as="geometry" />
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-85" value="全流程耗时0.005+0.002+(0.06~0.15)+0.06+0.01+0.02+0.11+0.03+0.02 = (0.315~0.405)s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="316" y="940" width="490" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-86" value="&lt;div&gt;scheduler 0.03 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1073" y="814" width="69" height="54" as="geometry" />
