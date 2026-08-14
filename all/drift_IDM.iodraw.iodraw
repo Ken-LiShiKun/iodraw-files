@@ -311,7 +311,7 @@
           <mxGeometry x="1002" y="821.5" width="51" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-105" value="VAE encode&lt;div&gt;0.01 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="861.5" y="917.5" width="87" height="54" as="geometry" />
+          <mxGeometry x="933.25" y="859" width="87" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-106" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;client&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="327" y="700" width="68" height="35" as="geometry" />
