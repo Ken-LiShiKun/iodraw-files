@@ -252,8 +252,8 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-86" value="&lt;div&gt;scheduler 0.03 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1073" y="814" width="69" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-87" value="kv cache creation&lt;div&gt;0.02 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="851" y="853.5" width="101.5" height="54" as="geometry" />
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-87" value="text embedding&lt;div&gt;0 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="962" width="101.5" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
