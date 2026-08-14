@@ -368,7 +368,7 @@
         <mxCell id="PLh1ITZx9KGFju5IgKZA-119" value="全流程耗时0.005+0.002+(0.06~0.15)+0.06+0.01+0.02+0.10+0.03+0.02 = (0.305~0.395)s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="429" y="1014" width="491" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="PLh1ITZx9KGFju5IgKZA-120" value="&lt;div&gt;scheduler 0.03 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PLh1ITZx9KGFju5IgKZA-120" value="&lt;div&gt;DIT FM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1186" y="888" width="69" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PLh1ITZx9KGFju5IgKZA-121" value="text embedding&lt;div&gt;0 s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
