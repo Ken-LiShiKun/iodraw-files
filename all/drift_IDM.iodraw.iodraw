@@ -503,7 +503,10 @@
         <mxCell id="jvhIOFPECdfELbwca8N5-33" value="concat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="469" y="2353.25" width="53" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="jvhIOFPECdfELbwca8N5-34" value="历史action(4*84)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jvhIOFPECdfELbwca8N5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="jvhIOFPECdfELbwca8N5-34" target="jvhIOFPECdfELbwca8N5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jvhIOFPECdfELbwca8N5-34" value="历史actions(4*84)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="2176" width="88.5" height="39.75" as="geometry" />
         </mxCell>
       </root>
