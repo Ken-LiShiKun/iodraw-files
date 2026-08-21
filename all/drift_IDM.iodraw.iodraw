@@ -449,7 +449,7 @@
             <mxPoint x="379" y="2153" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jvhIOFPECdfELbwca8N5-18" value="未来帧latent噪声 (2*4*120*160)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jvhIOFPECdfELbwca8N5-18" value="未来帧latent噪声 (4*4*120*160)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="179" y="2126" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="jvhIOFPECdfELbwca8N5-19" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;rotation=-90;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
