@@ -470,7 +470,7 @@
         <mxCell id="jvhIOFPECdfELbwca8N5-24" value="multi-view latent z" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="689" y="2357.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="jvhIOFPECdfELbwca8N5-25" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;pred 8 latent z&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jvhIOFPECdfELbwca8N5-25" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;pred 2 latent z&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="689" y="2259" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="jvhIOFPECdfELbwca8N5-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jvhIOFPECdfELbwca8N5-27" target="jvhIOFPECdfELbwca8N5-28">
