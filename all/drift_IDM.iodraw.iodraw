@@ -464,7 +464,7 @@
         <mxCell id="jvhIOFPECdfELbwca8N5-22" value="&lt;span style=&quot;color: rgba(228, 228, 228, 0.92); font-family: system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, &amp;quot;Source Han Sans&amp;quot;, sans-serif; font-size: 13px; text-align: start; caret-color: color(srgb 0.894118 0.894118 0.894118 / 0.866275); background-color: rgb(24, 24, 24);&quot;&gt;z_history | z_noise&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530.5" y="2203" width="125" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="jvhIOFPECdfELbwca8N5-23" value="Future 8 frames" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jvhIOFPECdfELbwca8N5-23" value="Future 2 frames" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="942" y="2083.25" width="93" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="jvhIOFPECdfELbwca8N5-24" value="multi-view latent z" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
