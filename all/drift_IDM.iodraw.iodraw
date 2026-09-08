@@ -13,16 +13,16 @@
         <mxCell id="LGQNMzfi7t5m4to3U7Fv-2" value="AGIbot&lt;div&gt;Galaxea bot&lt;/div&gt;&lt;div&gt;unitreebot桌面&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="953" y="418" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGQNMzfi7t5m4to3U7Fv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGQNMzfi7t5m4to3U7Fv-5">
+        <mxCell id="LGQNMzfi7t5m4to3U7Fv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGQNMzfi7t5m4to3U7Fv-5" target="LGQNMzfi7t5m4to3U7Fv-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1028" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGQNMzfi7t5m4to3U7Fv-5" value="新加坡长程已标注任务&lt;div&gt;ego数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1108" y="345" width="156" height="60" as="geometry" />
+          <mxGeometry x="1108" y="345" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGQNMzfi7t5m4to3U7Fv-6" value="预期增加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1151" y="319" width="66" height="26" as="geometry" />
+          <mxGeometry x="1137" y="317" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
