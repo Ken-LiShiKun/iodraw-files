@@ -13,7 +13,7 @@
         <mxCell id="LGQNMzfi7t5m4to3U7Fv-2" value="AGIbot&lt;div&gt;Galaxea bot&lt;/div&gt;&lt;div&gt;unitreebot桌面&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="953" y="418" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGQNMzfi7t5m4to3U7Fv-5" value="新加坡长程已标注任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGQNMzfi7t5m4to3U7Fv-5" value="新加坡长程已标注任务&lt;div&gt;ego数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1108" y="345" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGQNMzfi7t5m4to3U7Fv-6" value="预期增加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
