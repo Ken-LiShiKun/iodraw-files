@@ -35,7 +35,7 @@
             <mxPoint x="1121" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGQNMzfi7t5m4to3U7Fv-12" value="审查" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+        <mxCell id="LGQNMzfi7t5m4to3U7Fv-12" value="评估审查VLM" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1061" y="701" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGQNMzfi7t5m4to3U7Fv-14" value="待测试有效性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
