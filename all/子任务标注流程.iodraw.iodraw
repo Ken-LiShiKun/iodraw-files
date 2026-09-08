@@ -46,7 +46,7 @@
           <mxGeometry x="1019" y="650" width="102" height="41" as="geometry" />
         </mxCell>
         <mxCell id="LGQNMzfi7t5m4to3U7Fv-18" value="可用标注数据" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1324" y="558" width="120" height="60" as="geometry" />
+          <mxGeometry x="1320" y="558" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGQNMzfi7t5m4to3U7Fv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGQNMzfi7t5m4to3U7Fv-20" target="LGQNMzfi7t5m4to3U7Fv-1">
           <mxGeometry relative="1" as="geometry">
