@@ -47,6 +47,9 @@
         <mxCell id="LGQNMzfi7t5m4to3U7Fv-15" value="&lt;div&gt;unitreebot桌面第一批人工审查单badcase&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="859" y="701" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LGQNMzfi7t5m4to3U7Fv-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="663" width="40" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
