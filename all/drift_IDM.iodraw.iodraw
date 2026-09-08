@@ -41,6 +41,12 @@
         <mxCell id="LGQNMzfi7t5m4to3U7Fv-14" value="待测试有效性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1117" y="665" width="90" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="LGQNMzfi7t5m4to3U7Fv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGQNMzfi7t5m4to3U7Fv-15" target="LGQNMzfi7t5m4to3U7Fv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGQNMzfi7t5m4to3U7Fv-15" value="AGIbot&lt;div&gt;Galaxea bot&lt;/div&gt;&lt;div&gt;unitreebot桌面&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="859" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
