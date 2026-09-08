@@ -17,7 +17,7 @@
           <mxGeometry x="953" y="418" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGQNMzfi7t5m4to3U7Fv-6" value="预期增加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1137" y="317" width="66" height="26" as="geometry" />
+          <mxGeometry x="1145" y="379" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LGQNMzfi7t5m4to3U7Fv-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGQNMzfi7t5m4to3U7Fv-10" target="LGQNMzfi7t5m4to3U7Fv-18">
           <mxGeometry relative="1" as="geometry" />
@@ -48,8 +48,11 @@
         <mxCell id="LGQNMzfi7t5m4to3U7Fv-18" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1324" y="558" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LGQNMzfi7t5m4to3U7Fv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGQNMzfi7t5m4to3U7Fv-20" target="LGQNMzfi7t5m4to3U7Fv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LGQNMzfi7t5m4to3U7Fv-20" value="新加坡已标注数据" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="421" width="120" height="60" as="geometry" />
+          <mxGeometry x="1096" y="415" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
