@@ -56,7 +56,7 @@
           <mxGeometry x="1661" y="372" width="164" height="74" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-18" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;运动比赛区&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1801" y="83" width="164" height="164" as="geometry" />
+          <mxGeometry x="1622" y="87" width="164" height="164" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-19" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;物流快递场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1673" y="630" width="164" height="76" as="geometry" />
@@ -68,10 +68,10 @@
           <mxGeometry x="1448" y="624.5" width="199" height="159" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;拳击场地&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1821" y="93" width="117" height="50" as="geometry" />
+          <mxGeometry x="1642" y="97" width="117" height="50" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;球类场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1821" y="182" width="117" height="50" as="geometry" />
+          <mxGeometry x="1642" y="186" width="117" height="50" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;导航场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1445" y="178" width="164" height="73" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="1659" y="456" width="164" height="74" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-27" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;研发仓库&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2047" y="74.5" width="238" height="87" as="geometry" />
+          <mxGeometry x="1804" y="87" width="238" height="87" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-28" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;locomotion场地&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1445" y="85" width="164" height="74" as="geometry" />
