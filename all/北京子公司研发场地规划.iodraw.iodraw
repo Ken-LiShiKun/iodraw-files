@@ -59,7 +59,7 @@
           <mxGeometry x="1447" y="236" width="260" height="158" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-21" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;具身应用部&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1729" y="236" width="161" height="159" as="geometry" />
+          <mxGeometry x="1438" y="488.5" width="161" height="159" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;拳击场地&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2142" y="341" width="117" height="50" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-30" value="研发办公区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1954" y="246" width="78" height="26" as="geometry" />
+          <mxGeometry x="1629.5" y="201" width="78" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
