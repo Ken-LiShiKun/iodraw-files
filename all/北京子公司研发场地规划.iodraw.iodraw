@@ -94,7 +94,7 @@
         <mxCell id="415wMWjsbHQQ6-Vemlve-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="415wMWjsbHQQ6-Vemlve-24" target="415wMWjsbHQQ6-Vemlve-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="415wMWjsbHQQ6-Vemlve-35" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;物流快递场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="415wMWjsbHQQ6-Vemlve-35" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;职能部门(办公区)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1673" y="716" width="164" height="76" as="geometry" />
         </mxCell>
       </root>
