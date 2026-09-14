@@ -31,7 +31,7 @@
         <mxCell id="415wMWjsbHQQ6-Vemlve-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;物流快递场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="91" width="164" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="415wMWjsbHQQ6-Vemlve-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="415wMWjsbHQQ6-Vemlve-11" value="楼下：跑道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="439" y="629" width="497" height="101" as="geometry" />
         </mxCell>
       </root>
