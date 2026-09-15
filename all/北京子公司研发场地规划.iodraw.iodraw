@@ -14,7 +14,7 @@
           <mxGeometry x="673" y="340" width="142" height="121" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="834" y="190" width="164" height="121" as="geometry" />
+          <mxGeometry x="836" y="195" width="164" height="121" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;物流快递场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="785.5" y="734" width="164" height="76" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry x="474" y="213" width="174" height="248" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;拳击场地&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="854" y="223" width="117" height="35" as="geometry" />
+          <mxGeometry x="856" y="228" width="117" height="35" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-9" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;球类场地&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="854" y="260" width="117" height="36" as="geometry" />
+          <mxGeometry x="856" y="265" width="117" height="36" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;导航场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="785.5" y="648" width="164" height="76" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry x="675" y="221" width="86" height="26" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-47" value="&lt;font color=&quot;#e10909&quot;&gt;面积：100平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="848" y="197" width="86" height="26" as="geometry" />
+          <mxGeometry x="850" y="202" width="86" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
