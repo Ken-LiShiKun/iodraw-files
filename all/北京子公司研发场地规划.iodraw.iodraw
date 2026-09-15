@@ -110,7 +110,7 @@
           <mxGeometry x="850" y="337" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-46" value="&lt;font color=&quot;#e10909&quot;&gt;面积：100平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="675" y="221" width="86" height="26" as="geometry" />
+          <mxGeometry x="678" y="213" width="86" height="26" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-47" value="&lt;font color=&quot;#e10909&quot;&gt;面积：100平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="850" y="202" width="86" height="26" as="geometry" />
@@ -123,6 +123,9 @@
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-51" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;走廊&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1003" y="199.5" width="29" height="259.5" as="geometry" />
+        </mxCell>
+        <mxCell id="415wMWjsbHQQ6-Vemlve-52" value="&lt;font color=&quot;#e10909&quot;&gt;20平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="642" y="132" width="43" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
