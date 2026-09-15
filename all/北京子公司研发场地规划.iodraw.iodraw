@@ -29,7 +29,7 @@
           <mxGeometry x="825" y="491" width="164" height="76" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-13" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;桌面操作场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="340" width="152" height="121" as="geometry" />
+          <mxGeometry x="840" y="340" width="152" height="82" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;研发仓库&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1023" y="199" width="172" height="82" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="1023" y="300" width="110" height="41" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-45" value="&lt;font color=&quot;#e10909&quot;&gt;面积：50平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="852" y="352" width="79" height="26" as="geometry" />
+          <mxGeometry x="853.5" y="344" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-46" value="&lt;font color=&quot;#e10909&quot;&gt;面积：100平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="675" y="221" width="86" height="26" as="geometry" />
