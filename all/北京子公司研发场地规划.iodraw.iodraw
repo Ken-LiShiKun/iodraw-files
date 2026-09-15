@@ -98,7 +98,7 @@
           <mxGeometry x="472" y="221" width="110" height="41" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-40" value="&lt;font color=&quot;#e10909&quot;&gt;面积：100平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="648" y="530" width="86" height="26" as="geometry" />
+          <mxGeometry x="686" y="350" width="86" height="26" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-42" value="&lt;font color=&quot;#e10909&quot;&gt;面积：50平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1030" y="207" width="79" height="26" as="geometry" />
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-44" value="&lt;font color=&quot;#e10909&quot;&gt;工位面积：100平&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#e10909&quot;&gt;工位数量：20个&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1023" y="300" width="110" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="415wMWjsbHQQ6-Vemlve-45" value="&lt;font color=&quot;#e10909&quot;&gt;面积：100平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="696" y="360" width="86" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
