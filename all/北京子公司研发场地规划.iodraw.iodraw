@@ -118,8 +118,8 @@
         <mxCell id="415wMWjsbHQQ6-Vemlve-49" value="&lt;font color=&quot;#e10909&quot;&gt;面积：50平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="842" y="409" width="79" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="415wMWjsbHQQ6-Vemlve-50" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;桌面操作场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="692" y="564" width="164" height="74" as="geometry" />
+        <mxCell id="415wMWjsbHQQ6-Vemlve-50" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;走廊&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="692" y="564" width="59" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
