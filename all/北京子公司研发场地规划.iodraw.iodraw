@@ -35,7 +35,7 @@
           <mxGeometry x="785.5" y="303" width="164" height="74" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;研发仓库&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="458" y="124" width="496" height="87" as="geometry" />
+          <mxGeometry x="782" y="124" width="172" height="82" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-15" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;运动测试场地&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="785.5" y="388" width="164" height="74" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="789" y="394" width="86" height="26" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-42" value="&lt;font color=&quot;#e10909&quot;&gt;面积：50平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="467" y="135" width="79" height="26" as="geometry" />
+          <mxGeometry x="789" y="132" width="79" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
