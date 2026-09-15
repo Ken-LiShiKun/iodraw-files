@@ -26,10 +26,10 @@
           <mxGeometry x="856" y="265" width="117" height="36" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;导航场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="825" y="491" width="164" height="76" as="geometry" />
+          <mxGeometry x="836" y="424" width="164" height="43" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-13" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;桌面操作场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="340" width="152" height="82" as="geometry" />
+          <mxGeometry x="840" y="340" width="152" height="70" as="geometry" />
         </mxCell>
         <mxCell id="415wMWjsbHQQ6-Vemlve-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;研发仓库&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1023" y="199" width="172" height="82" as="geometry" />
