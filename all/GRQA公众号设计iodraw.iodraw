@@ -16,6 +16,9 @@
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-4" value="场景种类、题目数量、考察维度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690.5" y="729" width="519" height="321" as="geometry" />
         </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-5" value="详情介绍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="734" y="759" width="168" height="76" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
