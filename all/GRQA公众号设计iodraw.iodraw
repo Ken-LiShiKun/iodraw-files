@@ -46,8 +46,11 @@
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-16" value="动作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="893" y="1149" width="85" height="191" as="geometry" />
         </mxCell>
-        <mxCell id="_XSvsAYmzDmmjai9Lzb3-17" value="demo示例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-17" value="记忆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1152" width="85" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-19" value="详情介绍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="863.5" y="1392" width="168" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
