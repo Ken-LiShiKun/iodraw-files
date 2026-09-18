@@ -70,8 +70,11 @@
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-25" value="github" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="784" y="1959" width="314" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="_XSvsAYmzDmmjai9Lzb3-26" value="联系方式和主页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-26" value="web主页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="784" y="1999" width="314" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-27" value="联系方式和主页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="748" y="1549" width="168" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
