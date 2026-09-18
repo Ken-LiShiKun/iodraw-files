@@ -31,6 +31,9 @@
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-10" value="覆盖30个桌面场景和9个移动操作记忆场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="973" y="753" width="141" height="76" as="geometry" />
         </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-11" value="考察维度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="837" y="944" width="168" height="76" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
