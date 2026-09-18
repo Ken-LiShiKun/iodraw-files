@@ -25,6 +25,9 @@
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-7" value="考察维度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="866" y="948" width="168" height="76" as="geometry" />
         </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-9" value="一个场景相似片段检查模型理解的稳定性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1043" y="852" width="168" height="76" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
