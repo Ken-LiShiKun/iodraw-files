@@ -34,6 +34,12 @@
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-12" value="子任务、动作、记忆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="939" width="141" height="76" as="geometry" />
         </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="722" y="1054" width="451" height="321" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-14" value="详情介绍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="634" width="168" height="76" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
