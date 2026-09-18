@@ -31,7 +31,7 @@
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-10" value="覆盖30个桌面场景和9个移动操作记忆场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="973" y="753" width="141" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="_XSvsAYmzDmmjai9Lzb3-12" value="一个场景相似片段检查模型理解的稳定性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-12" value="子任务、动作、记忆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="939" width="141" height="76" as="geometry" />
         </mxCell>
       </root>
