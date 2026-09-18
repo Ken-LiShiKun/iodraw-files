@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="yeMLwi3Sdp1_BShMFC8s">
-    <mxGraphModel dx="3644" dy="2096" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3083" dy="1774" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="715.5" y="1415" width="451" height="321" as="geometry" />
+          <mxGeometry x="713.25" y="1400" width="451" height="321" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-1" value="&lt;span style=&quot;color: rgb(71, 85, 105); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 20px; text-align: start; background-color: rgb(248, 250, 252);&quot;&gt;GRQA Benchmark（通用推理评测基准），聚焦模型在真实机器人操作场景中的任务规划、动作理解与过程记忆能力，通过多维度任务设计评估模型的具身智能推理能力&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="727" y="346" width="446" height="249" as="geometry" />
@@ -14,46 +14,46 @@
           <mxGeometry x="857" y="241" width="168" height="76" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-3" value="详情介绍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="624" width="168" height="76" as="geometry" />
+          <mxGeometry x="857.75" y="609" width="168" height="76" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="727" y="722.5" width="451" height="321" as="geometry" />
+          <mxGeometry x="724.75" y="707.5" width="451" height="321" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-5" value="场景种类：39种" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="796" y="751" width="168" height="76" as="geometry" />
+          <mxGeometry x="793.75" y="736" width="168" height="76" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-6" value="题目种类和数量：判断题、选择题、开放问答题&lt;div&gt;共6200+&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="796" y="845" width="168" height="76" as="geometry" />
+          <mxGeometry x="793.75" y="830" width="168" height="76" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-7" value="考察维度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="796" y="939" width="168" height="76" as="geometry" />
+          <mxGeometry x="793.75" y="924" width="168" height="76" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-9" value="多元题型和评价指标综合评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="973" y="843" width="141" height="76" as="geometry" />
+          <mxGeometry x="970.75" y="828" width="141" height="76" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-10" value="覆盖30个桌面场景和9个移动操作记忆场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="973" y="753" width="141" height="76" as="geometry" />
+          <mxGeometry x="970.75" y="738" width="141" height="76" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-12" value="子任务、动作、记忆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="939" width="141" height="76" as="geometry" />
+          <mxGeometry x="967.75" y="924" width="141" height="76" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="722" y="1054" width="451" height="321" as="geometry" />
+          <mxGeometry x="719.75" y="1039" width="451" height="321" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-14" value="题目示例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="857" y="1059" width="168" height="76" as="geometry" />
+          <mxGeometry x="854.75" y="1044" width="168" height="76" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-15" value="子任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="746" y="1149" width="85" height="191" as="geometry" />
+          <mxGeometry x="743.75" y="1134" width="85" height="191" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-16" value="动作推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="893" y="1149" width="85" height="191" as="geometry" />
+          <mxGeometry x="890.75" y="1134" width="85" height="191" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-17" value="记忆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1152" width="85" height="191" as="geometry" />
+          <mxGeometry x="1037.75" y="1137" width="85" height="191" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-19" value="赛事愿景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="857" y="1439" width="168" height="76" as="geometry" />
+          <mxGeometry x="854.75" y="1424" width="168" height="76" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719" y="1764" width="451" height="321" as="geometry" />
@@ -74,13 +74,13 @@
           <mxGeometry x="781" y="2026" width="314" height="25" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-27" value="从真实操作场景构建多维推理评测基准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="756" y="1538" width="98" height="89" as="geometry" />
+          <mxGeometry x="753.75" y="1523" width="98" height="89" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-28" value="加速机器人通用大脑落地" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1016" y="1541" width="98" height="89" as="geometry" />
+          <mxGeometry x="1013.75" y="1526" width="98" height="89" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-29" value="实现复杂场景操作规划、理解和记忆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="883" y="1543" width="98" height="89" as="geometry" />
+          <mxGeometry x="880.75" y="1528" width="98" height="89" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-30" value="benchmark数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="781" y="1993" width="314" height="25" as="geometry" />
