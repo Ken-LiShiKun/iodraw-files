@@ -55,6 +55,12 @@
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-19" value="赛事愿景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="857" y="1439" width="168" height="76" as="geometry" />
         </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="719" y="1764" width="451" height="321" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-22" value="赛事愿景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="867" y="1449" width="168" height="76" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
