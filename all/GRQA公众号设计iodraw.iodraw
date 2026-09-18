@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715.5" y="1415" width="451" height="321" as="geometry" />
+        </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-1" value="&lt;span style=&quot;color: rgb(71, 85, 105); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 20px; text-align: start; background-color: rgb(248, 250, 252);&quot;&gt;GRQA Benchmark（通用推理评测基准），聚焦模型在真实机器人操作场景中的任务规划、动作理解与过程记忆能力，通过多维度任务设计评估模型的具身智能推理能力&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="727" y="346" width="446" height="249" as="geometry" />
         </mxCell>
@@ -50,10 +53,7 @@
           <mxGeometry x="1040" y="1152" width="85" height="191" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-19" value="赛事愿景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="863.5" y="1532" width="168" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="_XSvsAYmzDmmjai9Lzb3-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="724.5" y="1480" width="451" height="321" as="geometry" />
+          <mxGeometry x="857" y="1439" width="168" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
