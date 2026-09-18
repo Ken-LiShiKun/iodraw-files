@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="yeMLwi3Sdp1_BShMFC8s">
-    <mxGraphModel dx="1215" dy="699" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="699" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-14" value="题目示例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="854.75" y="1044" width="168" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="_XSvsAYmzDmmjai9Lzb3-15" value="子任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-15" value="子任务推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="743.75" y="1134" width="85" height="191" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-16" value="动作推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
