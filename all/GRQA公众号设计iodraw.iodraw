@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="713.25" y="1400" width="451" height="321" as="geometry" />
+          <mxGeometry x="713.37" y="1365" width="451" height="321" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-1" value="&lt;span style=&quot;color: rgb(71, 85, 105); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 20px; text-align: start; background-color: rgb(248, 250, 252);&quot;&gt;GRQA Benchmark（通用推理评测基准），聚焦模型在真实机器人操作场景中的任务规划、动作理解与过程记忆能力，通过多维度任务设计评估模型的具身智能推理能力&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="727" y="346" width="446" height="249" as="geometry" />
@@ -53,37 +53,37 @@
           <mxGeometry x="1037.75" y="1137" width="85" height="191" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-19" value="赛事愿景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="854.75" y="1424" width="168" height="76" as="geometry" />
+          <mxGeometry x="854.87" y="1389" width="168" height="76" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="719" y="1764" width="451" height="321" as="geometry" />
+          <mxGeometry x="713.25" y="1701" width="451" height="321" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-22" value="联系方式和主页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="854" y="1789" width="168" height="76" as="geometry" />
+          <mxGeometry x="848.25" y="1726" width="168" height="76" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-23" value="邮箱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="785" y="1882" width="314" height="25" as="geometry" />
+          <mxGeometry x="779.25" y="1819" width="314" height="25" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-24" value="discord" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="785" y="1919" width="314" height="25" as="geometry" />
+          <mxGeometry x="779.25" y="1856" width="314" height="25" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-25" value="github" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="784" y="1959" width="314" height="25" as="geometry" />
+          <mxGeometry x="778.25" y="1896" width="314" height="25" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-26" value="web主页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="781" y="2026" width="314" height="25" as="geometry" />
+          <mxGeometry x="775.25" y="1963" width="314" height="25" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-27" value="从真实操作场景构建多维推理评测基准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="753.75" y="1523" width="98" height="89" as="geometry" />
+          <mxGeometry x="753.87" y="1488" width="98" height="89" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-28" value="加速机器人通用大脑落地" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1013.75" y="1526" width="98" height="89" as="geometry" />
+          <mxGeometry x="1013.87" y="1491" width="98" height="89" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-29" value="实现复杂场景操作规划、理解和记忆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880.75" y="1528" width="98" height="89" as="geometry" />
+          <mxGeometry x="880.87" y="1493" width="98" height="89" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-30" value="benchmark数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="781" y="1993" width="314" height="25" as="geometry" />
+          <mxGeometry x="775.25" y="1930" width="314" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
