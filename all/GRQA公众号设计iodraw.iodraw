@@ -82,6 +82,9 @@
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-29" value="实现复杂场景操作规划、理解和记忆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="883" y="1543" width="98" height="89" as="geometry" />
         </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-30" value="benchmark数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="781" y="1993" width="314" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
