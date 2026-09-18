@@ -49,7 +49,7 @@
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-16" value="动作推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890.75" y="1134" width="85" height="191" as="geometry" />
         </mxCell>
-        <mxCell id="_XSvsAYmzDmmjai9Lzb3-17" value="记忆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-17" value="记忆推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1037.75" y="1137" width="85" height="191" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-19" value="赛事愿景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
