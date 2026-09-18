@@ -19,7 +19,7 @@
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-5" value="场景种类：39种" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="866" y="760" width="168" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="_XSvsAYmzDmmjai9Lzb3-6" value="题目数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-6" value="题目种类和数量：判断题、选择题、开放问答题&lt;div&gt;共6200+&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="866" y="854" width="168" height="76" as="geometry" />
         </mxCell>
         <mxCell id="_XSvsAYmzDmmjai9Lzb3-7" value="考察维度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
