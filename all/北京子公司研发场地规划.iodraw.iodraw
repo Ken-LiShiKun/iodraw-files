@@ -167,7 +167,7 @@
           <mxGeometry x="790" y="893.75" width="117" height="36" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;物流分拣场景&lt;/span&gt;&lt;div&gt;30 m²&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="778" y="1019.25" width="198.25" height="96.5" as="geometry" />
+          <mxGeometry x="780" y="963.25" width="198.25" height="96.5" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;桌面操作场景&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="895.37" width="270" height="111.25" as="geometry" />
@@ -200,7 +200,7 @@
           <mxGeometry x="708" y="757" width="247" height="46" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-27" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;会议办公场景&lt;/span&gt;&lt;div&gt;20 m²&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1129" width="194.5" height="79" as="geometry" />
+          <mxGeometry x="782" y="1073" width="194.5" height="79" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-36" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;超市导览场景&lt;/span&gt;&lt;div&gt;30 m²&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="778" y="1220" width="199" height="96" as="geometry" />
+          <mxGeometry x="780" y="1164" width="199" height="86" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-38" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;客厅&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;30&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;qk-md-strong complete&quot;&gt;m²&lt;/span&gt;&lt;span data-spm-anchor-id=&quot;5176.28103460.0.i104.17472988h9G5Il&quot; class=&quot;qk-md-text complete&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1064.5" y="1061" width="121.5" height="63" as="geometry" />
