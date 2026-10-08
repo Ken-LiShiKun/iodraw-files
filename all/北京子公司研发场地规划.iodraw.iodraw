@@ -304,8 +304,8 @@
         <mxCell id="2HOE-5-weOIQ613gHDxm-74" value="440" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1157.5" y="1511" width="38" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="2HOE-5-weOIQ613gHDxm-75" value="80" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="972" y="1511" width="31" height="26" as="geometry" />
+        <mxCell id="2HOE-5-weOIQ613gHDxm-75" value="80&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&amp;nbsp;m²&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="963" y="1511" width="49" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-76" value="250&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&amp;nbsp;m²&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="840.5" y="1505" width="55" height="26" as="geometry" />
