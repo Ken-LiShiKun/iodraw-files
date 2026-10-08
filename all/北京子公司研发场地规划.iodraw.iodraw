@@ -280,10 +280,10 @@
         <mxCell id="2HOE-5-weOIQ613gHDxm-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1047" y="793" as="sourcePoint" />
-            <mxPoint x="1313" y="870" as="targetPoint" />
+            <mxPoint x="1318" y="881" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2HOE-5-weOIQ613gHDxm-56" value="研发仓库&lt;div&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;50 m²&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2HOE-5-weOIQ613gHDxm-56" value="研发仓库&lt;div&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;40 m²&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1062" y="833" width="66" height="41" as="geometry" />
         </mxCell>
       </root>
