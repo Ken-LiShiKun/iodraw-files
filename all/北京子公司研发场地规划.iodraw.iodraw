@@ -167,7 +167,7 @@
           <mxGeometry x="848" y="963.75" width="117" height="36" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;导航导览场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1057" y="1156" width="274" height="96" as="geometry" />
+          <mxGeometry x="1093" y="1156" width="238" height="96" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;桌面操作场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1061" y="895.75" width="264" height="111.25" as="geometry" />
@@ -245,10 +245,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-36" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;导航导览场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1067" y="1166" width="274" height="96" as="geometry" />
+          <mxGeometry x="836" y="1156" width="243" height="96" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-37" value="&lt;font color=&quot;#e10909&quot;&gt;面积：50平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1158.5" y="1167" width="79" height="26" as="geometry" />
+          <mxGeometry x="927.5" y="1157" width="79" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
