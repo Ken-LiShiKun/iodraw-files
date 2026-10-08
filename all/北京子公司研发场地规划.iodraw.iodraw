@@ -212,7 +212,7 @@
           <mxGeometry x="646" y="838.5" width="43" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-22" value="&lt;font color=&quot;#e10909&quot;&gt;20平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1007" y="848" width="43" height="26" as="geometry" />
+          <mxGeometry x="929" y="806" width="43" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;销服办公区&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="796" width="160" height="513" as="geometry" />
@@ -231,6 +231,12 @@
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-30" value="&lt;font color=&quot;#e10909&quot;&gt;20平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="828" y="845" width="43" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="2HOE-5-weOIQ613gHDxm-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="858" y="1028" as="sourcePoint" />
+            <mxPoint x="905" y="762" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
