@@ -161,10 +161,10 @@
           <mxGeometry x="776" y="821" width="211" height="135" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;拳击场地&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="856.75" width="117" height="35" as="geometry" />
+          <mxGeometry x="790" y="856.75" width="88" height="80.25" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;球类场地&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="883" width="117" height="36" as="geometry" />
+          <mxGeometry x="883" y="859.37" width="95" height="36" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;物流分拣场景&lt;/span&gt;&lt;div&gt;30 m²&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="963.25" width="198.25" height="88.75" as="geometry" />
