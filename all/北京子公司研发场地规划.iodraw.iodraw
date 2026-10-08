@@ -164,7 +164,7 @@
           <mxGeometry x="837.5" y="869" width="88" height="80.25" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;球类场地&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="834" y="962" width="95" height="80" as="geometry" />
+          <mxGeometry x="808.5" y="960" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;物流分拣搬运&lt;/span&gt;&lt;div&gt;50 m²&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="784" y="1083.75" width="163" height="73.75" as="geometry" />
@@ -330,6 +330,9 @@
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-81" value="" style="shape=card;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="922" y="1121" width="14" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="2HOE-5-weOIQ613gHDxm-82" value="" style="shape=card;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="921" y="1022.5" width="14" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
