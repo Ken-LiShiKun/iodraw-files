@@ -203,7 +203,7 @@
           <mxGeometry x="1148.5" y="1157" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-20" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;走廊&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="837" y="839" width="29" height="308" as="geometry" />
+          <mxGeometry x="700.5" y="821" width="25.5" height="520" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-22" value="&lt;font color=&quot;#e10909&quot;&gt;20平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1000" y="678.5" width="43" height="26" as="geometry" />
