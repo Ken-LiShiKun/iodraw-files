@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Doz-qL4TVH--kbwHDnkW">
-    <mxGraphModel dx="1382" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1670" dy="961" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,7 +158,7 @@
           <mxGeometry x="1027" y="900" width="304" height="295" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="803" y="822" width="161" height="251" as="geometry" />
+          <mxGeometry x="784" y="823" width="161" height="251" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;拳击场地&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="837.5" y="869" width="88" height="80.25" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="834" y="962" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;物流分拣场景&lt;/span&gt;&lt;div&gt;30 m²&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="795" y="1084.25" width="163" height="73.75" as="geometry" />
+          <mxGeometry x="784" y="1083.75" width="163" height="73.75" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;桌面操作场景&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1027" y="1201" width="196.5" height="159" as="geometry" />
