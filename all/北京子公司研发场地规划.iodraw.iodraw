@@ -228,7 +228,7 @@
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1337" y="1166" as="sourcePoint" />
+            <mxPoint x="1340" y="1412" as="sourcePoint" />
             <mxPoint x="1334" y="848" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -240,7 +240,7 @@
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="1134" as="sourcePoint" />
+            <mxPoint x="343" y="1377" as="sourcePoint" />
             <mxPoint x="347" y="816" as="targetPoint" />
           </mxGeometry>
         </mxCell>
