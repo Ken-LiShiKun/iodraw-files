@@ -158,7 +158,7 @@
           <mxGeometry x="1046" y="1028" width="283" height="213" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="767" y="877" width="219" height="118" as="geometry" />
+          <mxGeometry x="767" y="877" width="219" height="135" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;拳击场地&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="789" y="912.75" width="117" height="35" as="geometry" />
@@ -230,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-36" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;超市导览场景&lt;/span&gt;&lt;div&gt;30 m²&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="773.75" y="1220" width="196" height="96" as="geometry" />
+          <mxGeometry x="773.75" y="1220" width="203.25" height="96" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-38" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;客厅&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;30&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;qk-md-strong complete&quot;&gt;m²&lt;/span&gt;&lt;span data-spm-anchor-id=&quot;5176.28103460.0.i104.17472988h9G5Il&quot; class=&quot;qk-md-text complete&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1064.5" y="1061" width="121.5" height="63" as="geometry" />
