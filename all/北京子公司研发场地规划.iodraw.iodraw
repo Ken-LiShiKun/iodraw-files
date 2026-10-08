@@ -253,8 +253,8 @@
         <mxCell id="2HOE-5-weOIQ613gHDxm-46" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap-mode: nowrap;&quot;&gt;操作台 * 6&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1153" y="977" width="99" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="2HOE-5-weOIQ613gHDxm-47" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;次卧&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;20&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;qk-md-strong complete&quot;&gt;m²&lt;/span&gt;&lt;span data-spm-anchor-id=&quot;5176.28103460.0.i104.17472988h9G5Il&quot; class=&quot;qk-md-text complete&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1194.5" y="1129" width="121.5" height="63" as="geometry" />
+        <mxCell id="2HOE-5-weOIQ613gHDxm-47" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;次卧&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot; class=&quot;qk-md-strong complete&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;15&lt;/span&gt;m²&lt;/span&gt;&lt;span data-spm-anchor-id=&quot;5176.28103460.0.i104.17472988h9G5Il&quot; class=&quot;qk-md-text complete&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1216" y="1129" width="100" height="63" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-51" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;走廊&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="994" y="815" width="38" height="520" as="geometry" />
@@ -281,10 +281,10 @@
           <mxGeometry x="1046" y="829" width="98" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-57" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;厨房&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;30&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;qk-md-strong complete&quot;&gt;m²&lt;/span&gt;&lt;span data-spm-anchor-id=&quot;5176.28103460.0.i104.17472988h9G5Il&quot; class=&quot;qk-md-text complete&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="1058" width="155" height="61" as="geometry" />
+          <mxGeometry x="1064" y="1061" width="155" height="58" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-58" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;卫生间&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;10&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;qk-md-strong complete&quot;&gt;m²&lt;/span&gt;&lt;span data-spm-anchor-id=&quot;5176.28103460.0.i104.17472988h9G5Il&quot; class=&quot;qk-md-text complete&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1226.75" y="1063" width="76.25" height="52" as="geometry" />
+          <mxGeometry x="1226.75" y="1063" width="76.25" height="53" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-60" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;主卧&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;30&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;qk-md-strong complete&quot;&gt;m²&lt;/span&gt;&lt;span data-spm-anchor-id=&quot;5176.28103460.0.i104.17472988h9G5Il&quot; class=&quot;qk-md-text complete&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1068" y="1201" width="121.5" height="50" as="geometry" />
