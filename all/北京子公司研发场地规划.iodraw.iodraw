@@ -169,7 +169,7 @@
         <mxCell id="2HOE-5-weOIQ613gHDxm-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;物流分拣场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1093" y="1156" width="238" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="2HOE-5-weOIQ613gHDxm-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;桌面操作场景&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2HOE-5-weOIQ613gHDxm-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;桌面操作场景&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1055" y="895.75" width="270" height="111.25" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;研发仓库&lt;/span&gt;&lt;div&gt;50 m²&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -251,7 +251,7 @@
           <mxGeometry x="1068" y="930" width="34" height="56.75" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1118" y="926.75" width="34" height="56.75" as="geometry" />
+          <mxGeometry x="1112" y="930" width="34" height="56.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
