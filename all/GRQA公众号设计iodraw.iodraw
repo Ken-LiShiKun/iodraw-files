@@ -1,0 +1,127 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="yeMLwi3Sdp1_BShMFC8s">
+    <mxGraphModel dx="1145" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="728.3100000000001" y="1159" width="451" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-1" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; data-eleid=&quot;5&quot; class=&quot;text-only&quot;&gt;本赛事聚焦模型在真实机器人操作场景中的任务规划、动作分析与过程记忆能力，&lt;/span&gt;&lt;/div&gt;&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; data-eleid=&quot;5&quot; class=&quot;text-only&quot;&gt;发布GRQA（通用具身推理基准评测）。通过多维度任务设计，评估多模态基础模&lt;/span&gt;&lt;/div&gt;&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; data-eleid=&quot;5&quot; class=&quot;text-only&quot;&gt;型及具身大模型对任务进程、动作逻辑与交互历史的理解和推理性能。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="741" y="346" width="432" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-2" value="UNITREE&amp;nbsp;&lt;div&gt;GRQA推理挑战赛&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="857.75" y="300" width="168" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-3" value="详情介绍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="498" width="168" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737" y="546" width="451" height="333.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-5" value="场景种类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="806" y="589" width="115.25" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-6" value="题目种类和数量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="806" y="681" width="116.25" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-7" value="评测维度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="806" y="775" width="113.25" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-9" value="判断题、选择题、开放问答题&lt;div&gt;共6200+&lt;/div&gt;多元题型和评价指标综合评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="932.25" y="679" width="191.75" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-10" value="覆盖30个桌面场景和9个移动操作场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="932.25" y="589" width="186" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-12" value="子任务理解、动作推理、记忆推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="929.25" y="775" width="191.75" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732" y="890" width="451" height="253" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-14" value="题目示例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="867" y="895" width="168" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-15" value="子任务理解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="756" y="985" width="85" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-16" value="动作推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="903" y="985" width="85" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-17" value="记忆推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="988" width="85" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-19" value="赛事愿景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="869.8100000000001" y="1183" width="168" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="722.69" y="1363" width="451" height="287" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-22" value="联系方式和主页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="857.69" y="1388" width="168" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-23" value="邮箱：grqa_support@unitree.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="786.69" y="1455" width="314" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-24" value="discord：&lt;a style=&quot;background-color: initial;&quot; data-lark-link=&quot;true&quot; href=&quot;https://discord.gg/A38xbT38e&quot; data-lark-is-custom=&quot;false&quot; data-eleid=&quot;3&quot; class=&quot;link rich-text-anchor __anchor-intercept-flag__&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;https://discord.gg/A38xbT38e&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="786.69" y="1492" width="314" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-25" value="github：待定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="785.69" y="1532" width="314" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-26" value="官网：&lt;a style=&quot;white-space-collapse: preserve; background-color: initial;&quot; data-lark-is-custom=&quot;false&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; href=&quot;https://grqa.unitree.com/&quot;&gt;https://grqa.unitree.com/&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="782.69" y="1599" width="314" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-27" value="建立标准 — 为机器人操作场景的多模态推理，提供公开、可复现的评测基准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="751.19" y="1248" width="127.13" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-28" value="推动落地 — 让 看得懂、说得清、记得住 成为具身智能机器人场景应用中的必备能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1026.06" y="1248" width="136.13" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-29" value="聚焦能力 — 从 任务结构、动作细节、过程记忆 三个维度，全面检验模型理解力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="888.3800000000001" y="1248" width="125.13" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-30" value="评测题库：待定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="782.69" y="1566" width="314" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-31" value="Embodied AI&amp;nbsp;&lt;span class=&quot;qk-md-text complete&quot;&gt;·&amp;nbsp;&lt;/span&gt;Reasoning&amp;nbsp;&lt;span class=&quot;qk-md-text complete&quot;&gt;·&lt;/span&gt;&amp;nbsp;2026" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="828.62" y="266" width="233.25" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-32" value="真实场景 · 多维题目 · 全面评测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="809.25" y="557" width="319.75" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-33" value="基于 G1 机器人真实操作视频，设计结构化推理评测题库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="788.75" y="937" width="347" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="887" width="416" height="332" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-35" value="题目示例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1499" y="895" width="168" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-36" value="子任务理解视频/图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1468.06" y="972" width="109.25" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-37" value="动作推理视频/图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1467.06" y="1052" width="110.25" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-38" value="记忆推理视频/图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1466.06" y="1122" width="113.25" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-39" value="基于 G1 机器人真实操作视频，设计结构化推理评测题库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1402" y="940" width="347" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-40" value="题目问答文本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590.69" y="972" width="109.25" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-41" value="题目问答文本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590.69" y="1050" width="109.25" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="_XSvsAYmzDmmjai9Lzb3-42" value="题目问答文本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590.69" y="1129" width="109.25" height="63" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
