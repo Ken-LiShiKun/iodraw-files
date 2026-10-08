@@ -191,7 +191,7 @@
           <mxGeometry x="780" y="828" width="93" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-20" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;走廊&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="712" y="821" width="25.5" height="520" as="geometry" />
+          <mxGeometry x="686" y="828" width="25.5" height="520" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;销服办公区&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="391" y="816" width="270" height="531" as="geometry" />
@@ -217,7 +217,7 @@
         <mxCell id="2HOE-5-weOIQ613gHDxm-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="346" y="817" as="sourcePoint" />
-            <mxPoint x="835" y="726" as="targetPoint" />
+            <mxPoint x="869" y="719" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
