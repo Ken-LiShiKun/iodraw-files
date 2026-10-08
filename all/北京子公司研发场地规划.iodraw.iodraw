@@ -167,7 +167,7 @@
           <mxGeometry x="860.75" y="858" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;物流分拣场景&lt;/span&gt;&lt;div&gt;30 m²&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750.88" y="1083.75" width="242.12" height="72.25" as="geometry" />
+          <mxGeometry x="755" y="1083.75" width="238" height="72.25" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;桌面操作场景&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="749.5" y="963" width="240.5" height="111.25" as="geometry" />
@@ -257,7 +257,7 @@
           <mxGeometry x="1218" y="1007" width="87" height="63" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-51" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;走廊&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="996" y="816" width="32" height="515" as="geometry" />
+          <mxGeometry x="992" y="818" width="32" height="515" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
