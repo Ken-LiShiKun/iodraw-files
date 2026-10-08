@@ -200,7 +200,7 @@
           <mxGeometry x="792" y="766" width="247" height="46" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-27" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;会议办公场景&lt;/span&gt;&lt;div&gt;20 m²&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780.63" y="1326" width="169.75" height="75" as="geometry" />
+          <mxGeometry x="780.63" y="1321" width="169.75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -316,7 +316,7 @@
         <mxCell id="2HOE-5-weOIQ613gHDxm-75" value="80" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="969" y="1534" width="31" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="2HOE-5-weOIQ613gHDxm-76" value="260" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2HOE-5-weOIQ613gHDxm-76" value="250" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="845.5" y="1528" width="38" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-78" value="" style="shape=card;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
