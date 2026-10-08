@@ -187,14 +187,14 @@
         <mxCell id="2HOE-5-weOIQ613gHDxm-14" value="&lt;font color=&quot;#e10909&quot;&gt;工位面积：100平&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#e10909&quot;&gt;工位数量：20个&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="996.5" y="1389" width="110" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="2HOE-5-weOIQ613gHDxm-15" value="&lt;font color=&quot;#e10909&quot;&gt;面积：50平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="895.75" width="79" height="26" as="geometry" />
+        <mxCell id="2HOE-5-weOIQ613gHDxm-15" value="总面积：50&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;m²&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="895.75" width="93" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-16" value="&lt;font color=&quot;#e10909&quot;&gt;面积：50平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1098.5" y="1275" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-17" value="总面积：50&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;m²&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="854" y="902.75" width="93" height="26" as="geometry" />
+          <mxGeometry x="838" y="898" width="93" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-18" value="&lt;font color=&quot;#e10909&quot;&gt;面积：50平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1148.5" y="1157" width="79" height="26" as="geometry" />
@@ -246,6 +246,9 @@
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-38" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;客厅&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;30&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;qk-md-strong complete&quot;&gt;m²&lt;/span&gt;&lt;span data-spm-anchor-id=&quot;5176.28103460.0.i104.17472988h9G5Il&quot; class=&quot;qk-md-text complete&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="1064" width="121.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="2HOE-5-weOIQ613gHDxm-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="623" y="977" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
