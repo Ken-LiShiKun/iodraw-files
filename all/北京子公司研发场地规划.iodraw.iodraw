@@ -214,8 +214,8 @@
         <mxCell id="2HOE-5-weOIQ613gHDxm-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;电梯间 卫生间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="708" y="757" width="247" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="2HOE-5-weOIQ613gHDxm-27" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;导航导览场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="811" y="1154.5" width="216" height="99" as="geometry" />
+        <mxCell id="2HOE-5-weOIQ613gHDxm-27" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;会议办公场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="832" y="1153" width="216" height="99" as="geometry" />
         </mxCell>
         <mxCell id="2HOE-5-weOIQ613gHDxm-28" value="&lt;font color=&quot;#e10909&quot;&gt;面积：50平&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="832" y="1156" width="79" height="26" as="geometry" />
