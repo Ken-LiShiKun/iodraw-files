@@ -56,7 +56,7 @@
           <mxGeometry x="760" y="1293" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-8" value="大模型渐进改进" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="140.5" y="636" width="143" height="60" as="geometry" />
+          <mxGeometry x="133.5" y="634" width="143" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-10" target="6pu6fjIn9W3ffvlB2C-d-54">
           <mxGeometry relative="1" as="geometry" />
@@ -253,6 +253,9 @@
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-91" value="&lt;div&gt;力接触反馈辅助&lt;/div&gt;&lt;div&gt;runtime&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="776" y="119" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-97" value="大模型渐进改进" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="441" y="717" width="143" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
