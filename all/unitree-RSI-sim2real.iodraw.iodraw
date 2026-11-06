@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0" version="24.7.17">
   <diagram name="第 1 页" id="WdLepp6qu_4xCRCFHBoQ">
-    <mxGraphModel dx="1950" dy="1155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="963" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,10 +181,10 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-66" value="跨本体泛化控制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="391" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-68" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-68" value="本体全身控制runtime" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="427" y="391" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-70" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-70" value="世界模型引导规划" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="564" y="391" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-72" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -228,16 +228,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-79" value="Agent RSI 优化目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1343" y="1501" width="144.5" height="168" as="geometry" />
+          <mxGeometry x="981" y="1554" width="144.5" height="168" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-80" value="Fewer token" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="1785" width="120" height="60" as="geometry" />
+          <mxGeometry x="808" y="1838" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-82" value="Higher infer speed" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1355.25" y="1785" width="120" height="60" as="geometry" />
+          <mxGeometry x="993.25" y="1838" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-84" value="More first time accuracy" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1534" y="1788" width="120" height="60" as="geometry" />
+          <mxGeometry x="1172" y="1841" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-86" value="policy based（VLA/WAM）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="589" y="1841" width="120" height="60" as="geometry" />
