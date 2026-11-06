@@ -22,8 +22,14 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-1" target="6pu6fjIn9W3ffvlB2C-d-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-1" target="6pu6fjIn9W3ffvlB2C-d-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-1" target="6pu6fjIn9W3ffvlB2C-d-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-1" value="agent工具组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="108" y="366" width="146" height="60" as="geometry" />
+          <mxGeometry x="69" y="362" width="146" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-2" value="RSI数据闭环" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="101" y="911" width="144.5" height="60" as="geometry" />
@@ -44,7 +50,7 @@
           <mxGeometry x="296" y="804" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-8" value="规划推理模型渐进改进" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="25" y="142" width="143" height="60" as="geometry" />
+          <mxGeometry x="56" y="114" width="143" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-10" value="sam3" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="283" y="265" width="120" height="60" as="geometry" />
@@ -53,16 +59,22 @@
           <mxGeometry x="431" y="269" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-15" value="grasp" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="621" y="262" width="120" height="60" as="geometry" />
+          <mxGeometry x="568" y="269" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-17" value="world prediction" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="372" y="466" width="120" height="60" as="geometry" />
+          <mxGeometry x="568" y="455" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-19" value="WAM" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="553" y="462" width="120" height="60" as="geometry" />
+          <mxGeometry x="705" y="455" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-21" value="contact model" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="679" y="464" width="120" height="60" as="geometry" />
+          <mxGeometry x="705" y="269" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-23" value="WBC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="453" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-25" value="IK" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="454" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
