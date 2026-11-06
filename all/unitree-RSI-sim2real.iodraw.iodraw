@@ -85,8 +85,10 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-29" target="6pu6fjIn9W3ffvlB2C-d-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-29" target="6pu6fjIn9W3ffvlB2C-d-33">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393" y="1280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-29" target="6pu6fjIn9W3ffvlB2C-d-35">
           <mxGeometry relative="1" as="geometry" />
@@ -97,19 +99,22 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-31" value="在线推理执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="472" y="1278" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-33" value="模型离线总结" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="1280" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-35" value="指标动态检测" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="616" y="1147" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-38" target="6pu6fjIn9W3ffvlB2C-d-47">
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-38" target="6pu6fjIn9W3ffvlB2C-d-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-38" target="6pu6fjIn9W3ffvlB2C-d-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-38" value="Skill library" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="95.25" y="672" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-40" target="6pu6fjIn9W3ffvlB2C-d-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-40" target="6pu6fjIn9W3ffvlB2C-d-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-40" value="agent trajectory" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -128,6 +133,12 @@
           <mxGeometry x="161.5" y="759" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-47" value="知识库RSI" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="94.5" y="577" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-49" value="Model RSI" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="95.25" y="1092" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-52" value="模型离线总结" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="295.25" y="672" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
