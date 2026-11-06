@@ -61,16 +61,19 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-10" target="6pu6fjIn9W3ffvlB2C-d-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-10" value="sam3" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-10" value="Sam3" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="166" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-13" target="6pu6fjIn9W3ffvlB2C-d-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-13" value="depth" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-13" value="Depth" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="427" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-15" value="grasp" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-15" target="6pu6fjIn9W3ffvlB2C-d-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-15" value="Grasp net" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="564" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-17" target="6pu6fjIn9W3ffvlB2C-d-70">
@@ -85,7 +88,10 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-19" value="WAM" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="701" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-21" value="contact model" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-21" target="6pu6fjIn9W3ffvlB2C-d-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-21" value="Contact model" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="701" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-23" target="6pu6fjIn9W3ffvlB2C-d-68">
@@ -241,6 +247,12 @@
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-86" value="policy based（VLA/WAM）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="589" y="1841" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-89" value="抓取位置预测辅助" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="79" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-91" value="力接触反馈辅助" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="701" y="79" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
