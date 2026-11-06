@@ -1,17 +1,29 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0" version="24.7.17">
   <diagram name="第 1 页" id="WdLepp6qu_4xCRCFHBoQ">
-    <mxGraphModel dx="1950" dy="1155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2800" dy="1155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-1" target="6pu6fjIn9W3ffvlB2C-d-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-1" target="6pu6fjIn9W3ffvlB2C-d-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-1" target="6pu6fjIn9W3ffvlB2C-d-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-1" target="6pu6fjIn9W3ffvlB2C-d-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-1" target="6pu6fjIn9W3ffvlB2C-d-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-1" value="agent工具组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="103" y="354" width="146" height="60" as="geometry" />
+          <mxGeometry x="108" y="366" width="146" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-2" value="RSI数据闭环" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="107" y="516" width="144.5" height="60" as="geometry" />
+          <mxGeometry x="101" y="911" width="144.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-3" target="6pu6fjIn9W3ffvlB2C-d-4">
           <mxGeometry relative="1" as="geometry" />
@@ -29,10 +41,22 @@
           <mxGeometry x="296" y="804" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-8" value="规划推理模型渐进改进" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="227" width="143" height="60" as="geometry" />
+          <mxGeometry x="25" y="142" width="143" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="293" y="306" width="120" height="60" as="geometry" />
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-10" value="sam3" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="268" y="197" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-13" value="depth" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="357" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-15" value="grasp" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="464" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-17" value="world prediction" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="506" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-19" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="366" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
