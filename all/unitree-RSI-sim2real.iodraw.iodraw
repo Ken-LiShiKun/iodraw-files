@@ -85,7 +85,7 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-19" target="6pu6fjIn9W3ffvlB2C-d-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-19" value="WAM" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-19" value="Atom policy" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="776" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-21" target="6pu6fjIn9W3ffvlB2C-d-91">
@@ -193,7 +193,7 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-70" value="世界模型引导规划" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="639" y="431" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-72" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-72" value="&lt;div&gt;原子动作专家&lt;/div&gt;&lt;div&gt;泛化+快速执行&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="776" y="431" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-74" target="6pu6fjIn9W3ffvlB2C-d-75">
