@@ -1,12 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0" version="24.7.17">
   <diagram name="第 1 页" id="WdLepp6qu_4xCRCFHBoQ">
-    <mxGraphModel dx="1950" dy="1155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1345" dy="797" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-98" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="62" y="65" width="1620" height="442" as="geometry" />
-        </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-1" target="6pu6fjIn9W3ffvlB2C-d-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -258,16 +255,31 @@
           <mxGeometry x="776" y="119" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-97" value="Skill library" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1037" y="266" width="143" height="60" as="geometry" />
+          <mxGeometry x="1082" y="266" width="143" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-99" value="Robot Agent Harness" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="89" y="85" width="148" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-101" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="892" y="300" as="sourcePoint" />
-            <mxPoint x="1037" y="300.0041935483871" as="targetPoint" />
+            <mxPoint x="907" y="295.5" as="sourcePoint" />
+            <mxPoint x="1052" y="295.5041935483871" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-103" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="908" y="337" as="sourcePoint" />
+            <mxPoint x="1053" y="337.0041935483871" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-104" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="906" y="256" as="sourcePoint" />
+            <mxPoint x="1051" y="256.0041935483871" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-105" value="持续累积" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="943" y="215" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
