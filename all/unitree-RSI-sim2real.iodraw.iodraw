@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0" version="24.7.17">
   <diagram name="第 1 页" id="WdLepp6qu_4xCRCFHBoQ">
-    <mxGraphModel dx="1696" dy="1004" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1950" dy="1155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,19 +191,32 @@
           <mxGeometry x="701" y="391" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-74" target="6pu6fjIn9W3ffvlB2C-d-75">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="493" y="1797" />
+              <mxPoint x="314" y="1797" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-74" target="6pu6fjIn9W3ffvlB2C-d-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-74" target="6pu6fjIn9W3ffvlB2C-d-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="493" y="1798" />
+              <mxPoint x="649" y="1798" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-74" value="RSI范式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="171.5" y="1692" width="144.5" height="60" as="geometry" />
+          <mxGeometry x="420.5" y="1706" width="144.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-75" value="CAP" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="354.25" y="1661" width="120" height="60" as="geometry" />
+          <mxGeometry x="254" y="1841" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-77" value="Direct action（EEF/Joint）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1828" width="120" height="60" as="geometry" />
+          <mxGeometry x="432.75" y="1841" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-79" target="6pu6fjIn9W3ffvlB2C-d-80">
           <mxGeometry relative="1" as="geometry" />
@@ -225,6 +238,9 @@
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-84" value="More first time accuracy" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1534" y="1788" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-86" value="policy based（VLA/WAM）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="589" y="1841" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
