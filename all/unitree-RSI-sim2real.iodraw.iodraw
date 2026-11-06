@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0" version="24.7.17">
   <diagram name="第 1 页" id="WdLepp6qu_4xCRCFHBoQ">
-    <mxGraphModel dx="1122" dy="660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1963" dy="1155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry x="760" y="1293" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-8" value="渐进改进式大模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="701" y="638" width="143" height="60" as="geometry" />
+          <mxGeometry x="622" y="629" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-10" target="6pu6fjIn9W3ffvlB2C-d-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -116,16 +116,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-29" value="仿真并行全天候RSI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="238" y="1387" width="144.5" height="60" as="geometry" />
+          <mxGeometry x="1120" y="1100" width="144.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-31" value="在线推理执行" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="316" y="1518" width="120" height="60" as="geometry" />
+          <mxGeometry x="1198" y="1231" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-33" value="模型离线总结" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="177" y="1520" width="120" height="60" as="geometry" />
+          <mxGeometry x="1059" y="1233" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-35" value="指标动态检测" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="1387" width="120" height="60" as="geometry" />
+          <mxGeometry x="1342" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-38" target="6pu6fjIn9W3ffvlB2C-d-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry x="130" y="247" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-59" value="目标：渐进蒸馏大模型规划、总结、反思能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="69" y="704" width="258" height="26" as="geometry" />
+          <mxGeometry x="601" y="727" width="258" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-60" value="目标：持续学习闭环" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="34" y="1102" width="126" height="26" as="geometry" />
@@ -255,7 +255,7 @@
           <mxGeometry x="776" y="119" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-97" value="Skill library" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1082" y="266" width="143" height="60" as="geometry" />
+          <mxGeometry x="1082" y="186" width="143" height="196" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-99" value="Robot Agent Harness" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="89" y="85" width="148" height="26" as="geometry" />
@@ -285,17 +285,17 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1149" y="550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1149" y="668" />
+              <mxPoint x="1149" y="674" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-1" value="Skill vector embedding model" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1093.5" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="1047.75" y="488" width="211.5" height="85" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-6" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1153.16" y="407.5" as="sourcePoint" />
-            <mxPoint x="1153.16" y="332.5" as="targetPoint" />
+            <mxPoint x="1153" y="460" as="sourcePoint" />
+            <mxPoint x="1153" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
