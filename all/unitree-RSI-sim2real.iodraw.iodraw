@@ -208,8 +208,8 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-59" value="目标：渐进蒸馏大模型规划、总结、反思能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="528" y="727" width="258" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-60" value="目标：持续学习闭环" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="34" y="1102" width="126" height="26" as="geometry" />
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-60" value="目标：多任务场景持续学习闭环" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4" y="1102" width="186" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-61" value="深度估计辅助判断" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="502" y="119" width="120" height="60" as="geometry" />
@@ -381,8 +381,8 @@
         <mxCell id="o3LDnDbFqSWHPQP9b67m-36" value="任务难度：课程从易到难，更关注模型思考推理和工具组件的利用智能" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1287.25" y="813" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o3LDnDbFqSWHPQP9b67m-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="934" y="517" width="40" height="26" as="geometry" />
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-38" value="skil逐渐累积&lt;br&gt;大模型逐渐降级/使用自训练pyhsical agent模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="539" width="266" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
