@@ -56,7 +56,7 @@
           <mxGeometry x="896" y="1293" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-8" value="渐进改进式大模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="622" y="629" width="200" height="90" as="geometry" />
+          <mxGeometry x="443" y="618" width="419" height="95" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-10" target="6pu6fjIn9W3ffvlB2C-d-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -203,7 +203,7 @@
           <mxGeometry x="101" y="247" width="219" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-59" value="目标：渐进蒸馏大模型规划、总结、反思能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="601" y="727" width="258" height="26" as="geometry" />
+          <mxGeometry x="528" y="727" width="258" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-60" value="目标：持续学习闭环" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="34" y="1102" width="126" height="26" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry x="502" y="119" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-64" value="" style="shape=cross;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="747" y="516" width="78" height="94" as="geometry" />
+          <mxGeometry x="594" y="509" width="78" height="94" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-66" value="跨本体泛化控制" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="354" y="431" width="120" height="60" as="geometry" />
@@ -311,9 +311,9 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-105" value="持续累积" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="943" y="215" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="o3LDnDbFqSWHPQP9b67m-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o3LDnDbFqSWHPQP9b67m-1" target="6pu6fjIn9W3ffvlB2C-d-8">
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3LDnDbFqSWHPQP9b67m-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1149" y="550" as="targetPoint" />
+            <mxPoint x="862" y="674" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1149" y="674" />
             </Array>
@@ -363,17 +363,17 @@
         <mxCell id="o3LDnDbFqSWHPQP9b67m-29" value="整理skill库去重/整合/删减过期" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1214" y="1226" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o3LDnDbFqSWHPQP9b67m-31" value="system2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="2125" width="120" height="279" as="geometry" />
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-31" value="Harness RSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="2119" width="120" height="279" as="geometry" />
         </mxCell>
-        <mxCell id="o3LDnDbFqSWHPQP9b67m-32" value="system1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="484" y="2125" width="120" height="279" as="geometry" />
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-32" value="Model RSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="984" y="2119" width="120" height="279" as="geometry" />
         </mxCell>
-        <mxCell id="o3LDnDbFqSWHPQP9b67m-33" value="system0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="618" y="2123" width="120" height="279" as="geometry" />
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-33" value="Data RSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1118" y="2117" width="120" height="279" as="geometry" />
         </mxCell>
-        <mxCell id="o3LDnDbFqSWHPQP9b67m-34" value="具身Agent三大系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="469" y="2089" width="121" height="26" as="geometry" />
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-34" value="RSI组件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="999" y="2083" width="62" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
