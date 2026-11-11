@@ -378,8 +378,11 @@
         <mxCell id="o3LDnDbFqSWHPQP9b67m-34" value="RSI组件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="999" y="2083" width="62" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="o3LDnDbFqSWHPQP9b67m-36" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-36" value="任务难度：课程从易到难，更关注模型思考推理和工具组件的利用智能" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1287.25" y="813" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="934" y="517" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
