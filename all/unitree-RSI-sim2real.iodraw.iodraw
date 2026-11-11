@@ -1,9 +1,15 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0" version="24.7.17">
   <diagram name="第 1 页" id="WdLepp6qu_4xCRCFHBoQ">
-    <mxGraphModel dx="3793" dy="856" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1216" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="63" y="68" width="1228" height="719" as="geometry" />
+        </mxCell>
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="101" y="884" width="1190" height="603" as="geometry" />
+        </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-1" target="6pu6fjIn9W3ffvlB2C-d-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -44,16 +50,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-2" value="仿真RSI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="212" y="1073" width="144.5" height="60" as="geometry" />
+          <mxGeometry x="358" y="1062" width="144.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-3" target="6pu6fjIn9W3ffvlB2C-d-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-3" value="Agentic&amp;nbsp; rl" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="734" y="1213" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="1202" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-6" value="小尺寸具身agent模型" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="896" y="1293" width="120" height="60" as="geometry" />
+          <mxGeometry x="1042" y="1282" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-8" value="渐进改进式大模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="443" y="618" width="419" height="95" as="geometry" />
@@ -106,22 +112,17 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-25" value="IK" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="354" y="341" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o3LDnDbFqSWHPQP9b67m-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="o3LDnDbFqSWHPQP9b67m-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1347.2592592592591" y="953" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-38" target="6pu6fjIn9W3ffvlB2C-d-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-38" value="Skill library" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="224.25" y="933" width="120" height="60" as="geometry" />
+          <mxGeometry x="370.25" y="922" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-40" target="6pu6fjIn9W3ffvlB2C-d-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-40" value="agent trajectory library" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="224.25" y="1213" width="120" height="60" as="geometry" />
+          <mxGeometry x="370.25" y="1202" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-42" target="6pu6fjIn9W3ffvlB2C-d-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -130,24 +131,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-42" value="数据审查" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="424.25" y="1213" width="120" height="60" as="geometry" />
+          <mxGeometry x="570.25" y="1202" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-45" value="agent trajectory持续累积" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="1160" width="149" height="26" as="geometry" />
+          <mxGeometry x="436" y="1149" width="149" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-46" value="skill持续累积" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="280.5" y="1020" width="86" height="26" as="geometry" />
+          <mxGeometry x="426.5" y="1009" width="86" height="26" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-52" target="o3LDnDbFqSWHPQP9b67m-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-52" target="o3LDnDbFqSWHPQP9b67m-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="484.2500000000002" y="1073" as="targetPoint" />
+            <mxPoint x="630.2500000000002" y="1062" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-52" value="模型离线总结" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="424.25" y="933" width="120" height="60" as="geometry" />
+          <mxGeometry x="570.25" y="922" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-54" value="2D物体感知识别" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="354" y="116" width="120" height="60" as="geometry" />
@@ -159,7 +160,7 @@
           <mxGeometry x="528" y="727" width="258" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-60" value="目标：多任务场景持续学习闭环" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="138" y="885" width="186" height="26" as="geometry" />
+          <mxGeometry x="160" y="913" width="186" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-61" value="深度估计辅助判断" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="502" y="119" width="120" height="60" as="geometry" />
@@ -182,8 +183,8 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-74" target="6pu6fjIn9W3ffvlB2C-d-75" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="293" y="1730" />
-              <mxPoint x="114" y="1730" />
+              <mxPoint x="1608" y="743" />
+              <mxPoint x="1429" y="743" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -193,19 +194,19 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-74" target="6pu6fjIn9W3ffvlB2C-d-86" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="293" y="1731" />
-              <mxPoint x="449" y="1731" />
+              <mxPoint x="1608" y="744" />
+              <mxPoint x="1764" y="744" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-74" value="RSI范式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220.5" y="1639" width="144.5" height="60" as="geometry" />
+          <mxGeometry x="1535.5" y="652" width="144.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-75" value="CAP" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="54" y="1774" width="120" height="60" as="geometry" />
+          <mxGeometry x="1369" y="787" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-77" value="Direct action（EEF/Joint）" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="232.75" y="1774" width="120" height="60" as="geometry" />
+          <mxGeometry x="1547.75" y="787" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-79" target="6pu6fjIn9W3ffvlB2C-d-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -217,19 +218,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-79" value="Agent RSI 优化目标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1974" y="916" width="144.5" height="168" as="geometry" />
+          <mxGeometry x="1952" y="635" width="144.5" height="168" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-80" value="Fewer token" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1801" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1779" y="919" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-82" value="Higher infer speed" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1986.25" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1964.25" y="919" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-84" value="More first time accuracy" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="2165" y="1203" width="120" height="60" as="geometry" />
+          <mxGeometry x="2143" y="922" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-86" value="policy based（VLA/WAM）" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="389" y="1774" width="120" height="60" as="geometry" />
+          <mxGeometry x="1704" y="787" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-89" value="抓取位姿预测辅助" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="640" y="119" width="120" height="60" as="geometry" />
@@ -283,71 +284,71 @@
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3LDnDbFqSWHPQP9b67m-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="675" y="1245" as="targetPoint" />
+            <mxPoint x="821" y="1234" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-12" value="Agentic&amp;nbsp; SFT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="511" y="1321" width="120" height="60" as="geometry" />
+          <mxGeometry x="657" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3LDnDbFqSWHPQP9b67m-18" target="o3LDnDbFqSWHPQP9b67m-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-18" value="Agentic&amp;nbsp; trajectory data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="511" y="1408" width="120" height="60" as="geometry" />
+          <mxGeometry x="657" y="1397" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-20" value="&lt;div&gt;system2&lt;/div&gt;&lt;div&gt;0-1HZ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1331" y="313" width="120" height="279" as="geometry" />
+          <mxGeometry x="1414" y="315" width="120" height="279" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-21" value="&lt;div&gt;system1&lt;/div&gt;1-10HZ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1465" y="313" width="120" height="279" as="geometry" />
+          <mxGeometry x="1548" y="315" width="120" height="279" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-22" value="&lt;div&gt;system0&lt;/div&gt;&lt;div&gt;30-50HZ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1599" y="311" width="120" height="279" as="geometry" />
+          <mxGeometry x="1682" y="313" width="120" height="279" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-23" value="具身Agent三大系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="277" width="121" height="26" as="geometry" />
+          <mxGeometry x="1533" y="279" width="121" height="26" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-24" value="&lt;div&gt;充分理解工具的弊端&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="656" y="902" width="120" height="60" as="geometry" />
+          <mxGeometry x="802" y="891" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-29" value="整理skill库去重/整合/删减过期" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="656" y="998" width="120" height="60" as="geometry" />
+          <mxGeometry x="802" y="987" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-31" value="Harness RSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1841" y="317" width="120" height="279" as="geometry" />
+          <mxGeometry x="1895" y="302" width="120" height="279" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-32" value="Model RSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1975" y="317" width="120" height="279" as="geometry" />
+          <mxGeometry x="2029" y="302" width="120" height="279" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-33" value="Data RSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2109" y="315" width="120" height="279" as="geometry" />
+          <mxGeometry x="2163" y="300" width="120" height="279" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-34" value="RSI组件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="281" width="62" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="o3LDnDbFqSWHPQP9b67m-36" value="任务难度：课程从易到难，更关注模型思考推理和工具组件的利用智能" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1287.25" y="813" width="120" height="60" as="geometry" />
+          <mxGeometry x="2044" y="266" width="62" height="26" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-38" value="skil逐渐累积&lt;br&gt;大模型逐渐降级/使用自训练pyhsical agent模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="750" y="539" width="266" height="41" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-39" value="model rsi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="342" y="1224" width="67" height="26" as="geometry" />
+          <mxGeometry x="488" y="1213" width="67" height="26" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-40" value="skill rsi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="356" y="944" width="54" height="26" as="geometry" />
+          <mxGeometry x="502" y="933" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3LDnDbFqSWHPQP9b67m-44" target="o3LDnDbFqSWHPQP9b67m-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-44" value="在线推理执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="509" y="1073" width="120" height="60" as="geometry" />
+          <mxGeometry x="655" y="1062" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-47" value="动态指标检测：数据、模型能力等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="1090" width="198" height="26" as="geometry" />
+          <mxGeometry x="126" y="1079" width="198" height="26" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-48" value="多任务多环境大规模并行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="352" y="1078" width="150" height="26" as="geometry" />
+          <mxGeometry x="498" y="1067" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-51" value="任务难度：课程从易到难，更关注模型思考推理和工具组件的利用智能" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="672" y="1073" width="120" height="60" as="geometry" />
+          <mxGeometry x="818" y="1062" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
