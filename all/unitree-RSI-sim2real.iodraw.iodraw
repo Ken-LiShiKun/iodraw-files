@@ -40,19 +40,13 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-2" value="RSI数据闭环" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="212" y="1073" width="144.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-3" target="6pu6fjIn9W3ffvlB2C-d-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-3" target="6pu6fjIn9W3ffvlB2C-d-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-3" value="Agentic&amp;nbsp; rl" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="734" y="1213" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-4" value="数据获取" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="896" y="1119" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-6" value="模型训练" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-6" value="小尺寸具身agent模型" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="896" y="1293" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-8" value="渐进改进式大模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
@@ -161,10 +155,7 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-40" target="6pu6fjIn9W3ffvlB2C-d-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-40" target="6pu6fjIn9W3ffvlB2C-d-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-40" value="agent trajectory" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-40" value="agent trajectory library" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="224.25" y="1213" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-42" target="6pu6fjIn9W3ffvlB2C-d-3" edge="1">
@@ -176,17 +167,14 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-42" value="数据审查" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="424.25" y="1213" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-45" value="持续累积" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="285" y="1163" width="66" height="26" as="geometry" />
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-45" value="agent trajectory持续累积" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="290" y="1160" width="149" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-46" value="持续累积" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290.5" y="1020" width="66" height="26" as="geometry" />
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-46" value="skill持续累积" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280.5" y="1020" width="86" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-47" value="知识库RSI" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="223.5" y="838" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-49" value="Model RSI" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="224.25" y="1353" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-52" value="模型离线总结" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="424.25" y="933" width="120" height="60" as="geometry" />
@@ -372,6 +360,9 @@
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-38" value="skil逐渐累积&lt;br&gt;大模型逐渐降级/使用自训练pyhsical agent模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="750" y="539" width="266" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-39" value="model rsi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="342" y="1224" width="67" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
