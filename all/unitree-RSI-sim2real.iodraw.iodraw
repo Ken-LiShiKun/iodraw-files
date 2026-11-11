@@ -121,6 +121,9 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-31" value="在线推理执行" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1198" y="1231" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-33" target="o3LDnDbFqSWHPQP9b67m-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-33" value="模型离线总结" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1059" y="1233" width="120" height="60" as="geometry" />
         </mxCell>
@@ -326,6 +329,9 @@
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-23" value="具身Agent三大系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="459" y="2079" width="121" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-24" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1059" y="1373" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
