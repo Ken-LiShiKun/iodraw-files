@@ -172,8 +172,8 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-54" value="2D物体感知识别" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="354" y="116" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-58" value="目标：高效专家agent系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="130" y="247" width="160" height="26" as="geometry" />
+        <mxCell id="6pu6fjIn9W3ffvlB2C-d-58" value="目标：多专家agent系统,基模能力分发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="101" y="247" width="219" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-59" value="目标：渐进蒸馏大模型规划、总结、反思能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="601" y="727" width="258" height="26" as="geometry" />
@@ -301,9 +301,6 @@
             <mxPoint x="1153" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o3LDnDbFqSWHPQP9b67m-11" value="多模型专家策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="147" y="393" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o3LDnDbFqSWHPQP9b67m-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="675" y="1245" as="targetPoint" />
@@ -317,6 +314,9 @@
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-18" value="Agentic&amp;nbsp; trajectory data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="511" y="1408" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2115" width="120" height="279" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
