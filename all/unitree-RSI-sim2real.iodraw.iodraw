@@ -123,6 +123,9 @@
             <mxPoint x="1687" y="982.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-29" target="o3LDnDbFqSWHPQP9b67m-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-29" value="仿真并行全天候RSI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1275" y="953" width="144.5" height="60" as="geometry" />
         </mxCell>
@@ -342,13 +345,13 @@
         <mxCell id="o3LDnDbFqSWHPQP9b67m-18" value="Agentic&amp;nbsp; trajectory data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="511" y="1408" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o3LDnDbFqSWHPQP9b67m-20" value="system2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-20" value="&lt;div&gt;system2&lt;/div&gt;&lt;div&gt;0-1HZ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="2115" width="120" height="279" as="geometry" />
         </mxCell>
-        <mxCell id="o3LDnDbFqSWHPQP9b67m-21" value="system1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-21" value="&lt;div&gt;system1&lt;/div&gt;1-10HZ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="2115" width="120" height="279" as="geometry" />
         </mxCell>
-        <mxCell id="o3LDnDbFqSWHPQP9b67m-22" value="system0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-22" value="&lt;div&gt;system0&lt;/div&gt;&lt;div&gt;30-50HZ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="608" y="2113" width="120" height="279" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-23" value="具身Agent三大系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -374,6 +377,9 @@
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-34" value="RSI组件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="999" y="2083" width="62" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-36" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1287.25" y="813" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
