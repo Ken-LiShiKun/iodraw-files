@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0" version="24.7.17">
   <diagram name="第 1 页" id="WdLepp6qu_4xCRCFHBoQ">
-    <mxGraphModel dx="1454" dy="856" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3793" dy="856" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,6 +38,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-2" target="o3LDnDbFqSWHPQP9b67m-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-2" target="o3LDnDbFqSWHPQP9b67m-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-2" value="仿真RSI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -103,20 +106,10 @@
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-25" value="IK" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="354" y="341" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="o3LDnDbFqSWHPQP9b67m-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1419.5" y="982.5" as="sourcePoint" />
-            <mxPoint x="1687" y="982.5" as="targetPoint" />
+            <mxPoint x="1347.2592592592591" y="953" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="o3LDnDbFqSWHPQP9b67m-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pu6fjIn9W3ffvlB2C-d-29" target="o3LDnDbFqSWHPQP9b67m-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-29" value="仿真并行全天候RSI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1275" y="953" width="144.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6pu6fjIn9W3ffvlB2C-d-35" value="指标动态检测" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1528" y="1013" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pu6fjIn9W3ffvlB2C-d-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6pu6fjIn9W3ffvlB2C-d-38" target="6pu6fjIn9W3ffvlB2C-d-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -315,7 +308,7 @@
           <mxGeometry x="1450" y="277" width="121" height="26" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-24" value="&lt;div&gt;充分理解工具的弊端&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="573" y="856" width="120" height="60" as="geometry" />
+          <mxGeometry x="656" y="902" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-29" value="整理skill库去重/整合/删减过期" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="656" y="998" width="120" height="60" as="geometry" />
@@ -345,10 +338,16 @@
           <mxGeometry x="356" y="944" width="54" height="26" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-44" value="在线推理执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1073" width="120" height="60" as="geometry" />
+          <mxGeometry x="509" y="1073" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-47" value="动态指标检测：数据、模型能力等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="138" y="1140" width="198" height="26" as="geometry" />
+          <mxGeometry x="-20" y="1090" width="198" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-48" value="多任务多环境大规模并行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="352" y="1078" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="o3LDnDbFqSWHPQP9b67m-51" value="任务难度：课程从易到难，更关注模型思考推理和工具组件的利用智能" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="672" y="1073" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
