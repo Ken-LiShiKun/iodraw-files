@@ -1,9 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="bCavjvYKWL3ySm6lW8ws">
-    <mxGraphModel dx="2863" dy="1647" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+  <diagram id="RobotAgentRSI-Diagram" name="Robot Agent RSI 架构全景图">
+    <mxGraphModel dx="2004" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1600" background="#141414" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="oeL7d0lKkOD64JKSbB85-0" />
+        <mxCell id="oeL7d0lKkOD64JKSbB85-1" parent="oeL7d0lKkOD64JKSbB85-0" />
       </root>
     </mxGraphModel>
   </diagram>
