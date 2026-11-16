@@ -362,6 +362,9 @@
         <mxCell id="o3LDnDbFqSWHPQP9b67m-59" value="训练更强的VLA/WAM" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="145.75" y="1202" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="w6dRzbAGqO_6Et6pqbYF-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="636" y="1677" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
