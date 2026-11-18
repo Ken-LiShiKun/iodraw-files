@@ -366,7 +366,11 @@
           <mxGeometry x="636" y="1677" width="747" height="244" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="2159" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-6">
           <mxGeometry relative="1" as="geometry">
@@ -376,14 +380,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-10">
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="7vwJbKyLC-0Tn3wuD-BH-10">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="916" y="2160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="860" y="2245" />
-              <mxPoint x="860" y="2245" />
+              <mxPoint x="916" y="2246" />
+              <mxPoint x="916" y="2246" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -399,14 +401,11 @@
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-6" value="李兆林：资产可行性检验、机器人全身控制和数据采集流程、任务设计连通性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="555" y="2297" width="120" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="2299" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="838" y="2299" width="120" height="60" as="geometry" />
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-10" value="薛乐仁：agent在线轨迹流记录与蒸馏实践" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="868" y="2293" width="120" height="76" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-12" value="殷成威：skill RSI方法引入+实践" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="698" y="2299" width="120" height="60" as="geometry" />
+          <mxGeometry x="698" y="2299" width="120" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
