@@ -365,6 +365,43 @@
         <mxCell id="w6dRzbAGqO_6Et6pqbYF-1" value="&lt;div&gt;李世坤：构建gitlab仓库完成real2sim2real整合和统一，规范RSI skill库和格式&lt;/div&gt;&lt;div&gt;殷成威：办公室场景设计更多类似任务，探索更多real2sim2real类似任务的skill可复用能力，尝试sim未见任务的zeroshot&lt;/div&gt;&lt;div&gt;薛乐仁：robodojo任务agent在线介入和小模型蒸馏轨迹尝试&lt;/div&gt;&lt;div&gt;赵雨晨、李兆林：仿真场景引入和资产构建、数据采集流程打通&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="636" y="1677" width="747" height="244" as="geometry" />
         </mxCell>
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="612" y="2212" />
+              <mxPoint x="612" y="2212" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="2245" />
+              <mxPoint x="860" y="2245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-2" value="UniRSI仓库完善" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="1988" width="346" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-4" value="李明益：real2sim流程方法" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-6" value="殷成威：skill RSI方法引入+实践" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="2318" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="2308" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="807" y="2305" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
