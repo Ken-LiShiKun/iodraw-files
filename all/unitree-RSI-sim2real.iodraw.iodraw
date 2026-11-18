@@ -390,15 +390,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="758" y="2211" />
+              <mxPoint x="758" y="2211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-2" value="UniRSI仓库完善" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="1988" width="346" height="171" as="geometry" />
+          <mxGeometry x="477" y="1988" width="454" height="171" as="geometry" />
         </mxCell>
-        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-4" value="李明益：real2sim流程方法" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-4" value="李明益：real2sim流程方法引入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="418" y="2297" width="120" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-6" value="李兆林：资产可行性检验、机器人全身控制和数据采集流程、任务设计连通性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-6" value="李兆林：资产可行性检验、机器人全身控制和数据采集流程、任务设计连通性&lt;br&gt;拓展G1-D本体" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="555" y="2297" width="120" height="79" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-10" value="薛乐仁：agent在线轨迹流记录与蒸馏实践" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -406,6 +414,9 @@
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-12" value="殷成威：skill RSI方法引入+实践" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="698" y="2299" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-14" value="李世坤：Agent工具组件完善" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1056" y="2297" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
