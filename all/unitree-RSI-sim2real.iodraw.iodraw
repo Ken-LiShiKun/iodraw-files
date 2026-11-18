@@ -365,9 +365,6 @@
         <mxCell id="w6dRzbAGqO_6Et6pqbYF-1" value="&lt;div&gt;李世坤：构建gitlab仓库完成real2sim2real整合和统一，规范RSI skill库和格式&lt;/div&gt;&lt;div&gt;殷成威：办公室场景设计更多类似任务，探索更多real2sim2real类似任务的skill可复用能力，尝试sim未见任务的zeroshot&lt;/div&gt;&lt;div&gt;薛乐仁：robodojo任务agent在线介入和小模型蒸馏轨迹尝试&lt;/div&gt;&lt;div&gt;赵雨晨、李兆林：仿真场景引入和资产构建、数据采集流程打通&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="636" y="1677" width="747" height="244" as="geometry" />
         </mxCell>
-        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="348" y="2113" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
