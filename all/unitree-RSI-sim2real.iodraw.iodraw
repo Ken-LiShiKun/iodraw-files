@@ -418,6 +418,9 @@
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-14" value="李世坤：Agent工具组件完善" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1056" y="2297" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2505" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
