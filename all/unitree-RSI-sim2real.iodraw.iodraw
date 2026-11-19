@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0" version="24.7.17">
   <diagram name="第 1 页" id="WdLepp6qu_4xCRCFHBoQ">
-    <mxGraphModel dx="1963" dy="1155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="457" dy="269" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,6 +439,21 @@
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="2505" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-8" target="o9Qu9Rjtpg5NBmvVGQ0j-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.019;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="537.9950000000001" y="2668.968" as="targetPoint" />
+            <mxPoint x="500.04000000000013" y="2610.0000000000005" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="520" y="2610" />
+              <mxPoint x="520" y="2652" />
+              <mxPoint x="519" y="2652" />
+              <mxPoint x="519" y="2669" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-8" value="离线skill&lt;br&gt;【加速agent生成能够完成任务的code】" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="2580" width="120" height="60" as="geometry" />
         </mxCell>
@@ -456,6 +471,12 @@
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-15" value="在线skill" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="578" y="2785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-16" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="2574" width="55" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-19" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="2643" width="55" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
