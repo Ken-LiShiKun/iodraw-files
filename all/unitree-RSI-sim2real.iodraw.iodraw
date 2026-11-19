@@ -448,17 +448,14 @@
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-9" value="在线agent介入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="378" y="2708" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-10" target="o9Qu9Rjtpg5NBmvVGQ0j-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-10" value="在线agent介入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="578" y="2708" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-12" value="无skill" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="378" y="2785" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="578" y="2848" width="120" height="60" as="geometry" />
+        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-15" value="在线skill" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="578" y="2785" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
