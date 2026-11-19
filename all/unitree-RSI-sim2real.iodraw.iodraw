@@ -424,13 +424,8 @@
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-1" value="离线复盘RSI-在线纯代码执行&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="2505" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="2535" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-2" value="在线agent介入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="2505" width="120" height="60" as="geometry" />
+        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-2" value="在线agent介入——遇到问题查阅在线skill&lt;br&gt;+&lt;br&gt;离线agent复盘——更新离线skill经验和" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="2505" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-8" target="o9Qu9Rjtpg5NBmvVGQ0j-16">
           <mxGeometry relative="1" as="geometry" />
@@ -456,6 +451,9 @@
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-9" value="在线agent介入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="2780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-10" target="o9Qu9Rjtpg5NBmvVGQ0j-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-10" value="在线agent介入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="2780" width="120" height="60" as="geometry" />
