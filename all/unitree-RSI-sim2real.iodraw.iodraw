@@ -506,8 +506,8 @@
         <mxCell id="McMWv03wA4Cba6DlImoy-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1402" y="1643" width="50" height="388" as="geometry" />
         </mxCell>
-        <mxCell id="McMWv03wA4Cba6DlImoy-34" value="赵紫阳、袁卓青、于晨彬：扫描增加杭州数采场景和物资资产" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1857" width="120" height="76" as="geometry" />
+        <mxCell id="McMWv03wA4Cba6DlImoy-34" value="赵紫阳、袁卓青、于晨彬：扫描增加上海数采场景和物资资产、使用不同harness框架推进场景任务的sim rsi和real2sim2real" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1254.5" y="1859" width="345" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
