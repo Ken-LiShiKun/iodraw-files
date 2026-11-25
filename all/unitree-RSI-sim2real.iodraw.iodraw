@@ -363,37 +363,37 @@
           <mxGeometry x="145.75" y="1202" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w6dRzbAGqO_6Et6pqbYF-1" value="&lt;div&gt;李世坤：构建gitlab仓库完成real2sim2real整合和统一，规范RSI skill库和格式&lt;/div&gt;&lt;div&gt;殷成威：办公室场景设计更多类似任务，探索更多real2sim2real类似任务的skill可复用能力，尝试sim未见任务的zeroshot&lt;/div&gt;&lt;div&gt;薛乐仁：robodojo任务agent在线介入和小模型蒸馏轨迹尝试&lt;/div&gt;&lt;div&gt;赵雨晨、李兆林：仿真场景引入和资产构建、数据采集流程打通&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="636" y="1677" width="747" height="244" as="geometry" />
+          <mxGeometry x="60.25" y="1563" width="747" height="244" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="478" y="2159" />
+              <mxPoint x="111.25" y="2009" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="612" y="2212" />
-              <mxPoint x="612" y="2212" />
+              <mxPoint x="245.25" y="2062" />
+              <mxPoint x="245.25" y="2062" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="7vwJbKyLC-0Tn3wuD-BH-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="916" y="2160" as="sourcePoint" />
+            <mxPoint x="549.25" y="2010" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="916" y="2246" />
-              <mxPoint x="916" y="2246" />
+              <mxPoint x="549.25" y="2096" />
+              <mxPoint x="549.25" y="2096" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="758" y="2211" />
-              <mxPoint x="758" y="2211" />
+              <mxPoint x="391.25" y="2061" />
+              <mxPoint x="391.25" y="2061" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -401,42 +401,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-2" value="UniRSI仓库完善" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="477" y="1988" width="454" height="171" as="geometry" />
+          <mxGeometry x="110.25" y="1838" width="454" height="171" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-4" value="李明益：real2sim流程方法引入" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="418" y="2297" width="120" height="81" as="geometry" />
+          <mxGeometry x="51.25" y="2147" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-6" value="李兆林：资产可行性检验、机器人全身控制和数据采集流程、任务设计连通性&lt;br&gt;拓展G1-D本体" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="555" y="2297" width="120" height="79" as="geometry" />
+          <mxGeometry x="188.25" y="2147" width="120" height="79" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-10" value="薛乐仁：agent在线轨迹流记录与蒸馏实践" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="868" y="2293" width="120" height="76" as="geometry" />
+          <mxGeometry x="501.25" y="2143" width="120" height="76" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-12" value="殷成威：skill RSI方法引入+实践" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="698" y="2299" width="120" height="75" as="geometry" />
+          <mxGeometry x="331.25" y="2149" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-14" value="李世坤：Agent工具组件完善" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1056" y="2297" width="120" height="60" as="geometry" />
+          <mxGeometry x="689.25" y="2147" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-1" target="o9Qu9Rjtpg5NBmvVGQ0j-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-1" value="离线复盘RSI-在线纯代码执行&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="2505" width="120" height="60" as="geometry" />
+          <mxGeometry x="75" y="2397" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-2" value="【双混架构】&lt;br&gt;在线agent介入——遇到问题查阅在线skill&lt;br&gt;+&lt;br&gt;离线agent复盘——更新离线skill经验和在线纠错skill" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="828" y="2627" width="120" height="103" as="geometry" />
+          <mxGeometry x="523" y="2519" width="120" height="103" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-8" target="o9Qu9Rjtpg5NBmvVGQ0j-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.019;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="537.9950000000001" y="2668.968" as="targetPoint" />
-            <mxPoint x="500.04000000000013" y="2610.0000000000005" as="sourcePoint" />
+            <mxPoint x="232.99500000000012" y="2560.968" as="targetPoint" />
+            <mxPoint x="195.04000000000013" y="2502.0000000000005" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="520" y="2610" />
-              <mxPoint x="520" y="2669" />
+              <mxPoint x="215" y="2502" />
+              <mxPoint x="215" y="2561" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -444,37 +444,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-8" value="离线skill&lt;br&gt;【加速agent生成能够完成任务的code】" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="2580" width="120" height="60" as="geometry" />
+          <mxGeometry x="75" y="2472" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-9" target="o9Qu9Rjtpg5NBmvVGQ0j-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-9" value="在线agent介入" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="2780" width="120" height="60" as="geometry" />
+          <mxGeometry x="75" y="2672" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-10" target="o9Qu9Rjtpg5NBmvVGQ0j-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-10" value="在线agent介入" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="2780" width="120" height="60" as="geometry" />
+          <mxGeometry x="275" y="2672" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-12" target="o9Qu9Rjtpg5NBmvVGQ0j-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-12" value="无skill" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="2857" width="120" height="60" as="geometry" />
+          <mxGeometry x="75" y="2749" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-15" target="o9Qu9Rjtpg5NBmvVGQ0j-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-15" value="在线skill&lt;br&gt;【引导agent从错误中纠错恢复/在线快速调节的经验】" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="2857" width="120" height="60" as="geometry" />
+          <mxGeometry x="275" y="2749" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-16" value="本体相关skill" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="539" y="2574" width="55" height="48" as="geometry" />
+          <mxGeometry x="234" y="2466" width="55" height="48" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-19" value="本体无关skill" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="539" y="2643" width="55" height="48" as="geometry" />
+          <mxGeometry x="234" y="2535" width="55" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
