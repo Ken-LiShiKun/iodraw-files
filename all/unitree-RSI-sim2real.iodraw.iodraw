@@ -365,23 +365,28 @@
         <mxCell id="McMWv03wA4Cba6DlImoy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="McMWv03wA4Cba6DlImoy-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="McMWv03wA4Cba6DlImoy-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="968.8499755859375" y="1825.433349609375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-2" value="UniRSI共建分工" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="466" y="1532" width="454" height="171" as="geometry" />
+          <mxGeometry x="723" y="1529" width="454" height="171" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-4" value="李明益：real2sim流程方法引入、nav harness适配、资产任务自动化组合引入" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="194" y="1856" width="120" height="81" as="geometry" />
+          <mxGeometry x="186" y="1852" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-6" value="李兆林：资产可行性检验、机器人全身控制和数据采集流程、任务设计连通性、&lt;br&gt;拓展Unitree全本体" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="331" y="1853" width="120" height="79" as="geometry" />
+          <mxGeometry x="323" y="1849" width="120" height="79" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-10" value="薛乐仁：agent在线轨迹流记录与蒸馏实践" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="611" y="1857" width="120" height="76" as="geometry" />
+          <mxGeometry x="603" y="1853" width="120" height="76" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-12" value="殷成威：skill RSI方法引入+实践、sim2real真机流程示例" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470.5" y="1857" width="120" height="75" as="geometry" />
+          <mxGeometry x="462.5" y="1853" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-14" value="李世坤：skill设计和历史版本管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="61" y="1856" width="123" height="83" as="geometry" />
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-14" value="李世坤：UniRSI架构设计和维护、skill设计和历史版本管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="53" y="1852" width="123" height="83" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-1" target="o9Qu9Rjtpg5NBmvVGQ0j-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -442,10 +447,16 @@
           <mxGeometry x="234" y="2535" width="55" height="48" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-3" value="北京" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1748" width="120" height="60" as="geometry" />
+          <mxGeometry x="331" y="1749" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="366" y="1494" width="50" height="686" as="geometry" />
+        </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-8" value="杭州" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1749" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-11" value="李世坤：UniRSI架构设计和维护、skill设计和历史版本管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="53" y="1949" width="123" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
