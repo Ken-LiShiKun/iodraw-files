@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0" version="24.7.17">
   <diagram name="第 1 页" id="WdLepp6qu_4xCRCFHBoQ">
-    <mxGraphModel dx="5609" dy="3300" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1963" dy="1155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -400,10 +400,10 @@
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-2" value="UniRSI仓库完善" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-2" value="UniRSI分工" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110.25" y="1838" width="454" height="171" as="geometry" />
         </mxCell>
-        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-4" value="李明益：real2sim流程方法引入" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-4" value="李明益：real2sim流程方法引入、nav harness适配、资产任务自动化组合" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="51.25" y="2147" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-6" value="李兆林：资产可行性检验、机器人全身控制和数据采集流程、任务设计连通性&lt;br&gt;拓展G1-D本体" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
