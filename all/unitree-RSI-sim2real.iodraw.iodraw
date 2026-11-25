@@ -470,10 +470,10 @@
         <mxCell id="McMWv03wA4Cba6DlImoy-12" value="下一阶段计划" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="559" y="2068" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="McMWv03wA4Cba6DlImoy-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="McMWv03wA4Cba6DlImoy-13" value="4090多卡多机并行&lt;br&gt;并行最优配置，渲染加速，资源调度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="2202" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="McMWv03wA4Cba6DlImoy-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="McMWv03wA4Cba6DlImoy-15" value="工具增加和实现" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="559" y="2208" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-17" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
