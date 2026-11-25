@@ -362,29 +362,26 @@
         <mxCell id="o3LDnDbFqSWHPQP9b67m-59" value="训练更强的VLA/WAM" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="145.75" y="1202" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7vwJbKyLC-0Tn3wuD-BH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="7vwJbKyLC-0Tn3wuD-BH-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="McMWv03wA4Cba6DlImoy-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-2" value="UniRSI共建分工" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="174" y="1525" width="454" height="171" as="geometry" />
+          <mxGeometry x="466" y="1532" width="454" height="171" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-4" value="李明益：real2sim流程方法引入、nav harness适配、资产任务自动化组合引入" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="32" y="1965" width="120" height="81" as="geometry" />
+          <mxGeometry x="194" y="1856" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-6" value="李兆林：资产可行性检验、机器人全身控制和数据采集流程、任务设计连通性、&lt;br&gt;拓展Unitree全本体" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="268" y="1990" width="120" height="79" as="geometry" />
+          <mxGeometry x="331" y="1853" width="120" height="79" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-10" value="薛乐仁：agent在线轨迹流记录与蒸馏实践" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="581" y="1986" width="120" height="76" as="geometry" />
+          <mxGeometry x="611" y="1857" width="120" height="76" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-12" value="殷成威：skill RSI方法引入+实践、sim2real真机流程示例" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="411" y="1992" width="120" height="75" as="geometry" />
+          <mxGeometry x="470.5" y="1857" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-14" value="李世坤：skill设计和历史版本管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="748.75" y="2002" width="120" height="60" as="geometry" />
+          <mxGeometry x="61" y="1856" width="123" height="83" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-1" target="o9Qu9Rjtpg5NBmvVGQ0j-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -445,7 +442,10 @@
           <mxGeometry x="234" y="2535" width="55" height="48" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-3" value="北京" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="28" y="1741" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1748" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="366" y="1494" width="50" height="686" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
