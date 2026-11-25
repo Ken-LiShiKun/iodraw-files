@@ -485,6 +485,15 @@
         <mxCell id="McMWv03wA4Cba6DlImoy-19" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="692" y="2202" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="922" y="1661" width="50" height="352" as="geometry" />
+        </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-28" value="刘兴、李锟：扫描增加杭州数采场景和物资资产" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="776" y="1852" width="120" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-29" value="刘兴、李锟：扫描增加杭州数采场景和物资资产" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="786" y="1862" width="120" height="76" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
