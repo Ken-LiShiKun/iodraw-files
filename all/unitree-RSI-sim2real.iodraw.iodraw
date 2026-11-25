@@ -370,6 +370,9 @@
             <mxPoint x="968.8499755859375" y="1825.433349609375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="McMWv03wA4Cba6DlImoy-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-2" value="UniRSI共建分工" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="723" y="1529" width="454" height="171" as="geometry" />
         </mxCell>
@@ -486,13 +489,22 @@
           <mxGeometry x="692" y="2202" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="922" y="1661" width="50" height="352" as="geometry" />
+          <mxGeometry x="925" y="1643" width="50" height="388" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-28" value="刘兴、李锟：扫描增加杭州数采场景和物资资产" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="776" y="1852" width="120" height="76" as="geometry" />
+          <mxGeometry x="763.5" y="1852" width="120" height="76" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-29" value="刘兴、李锟：扫描增加杭州数采场景和物资资产" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="786" y="1862" width="120" height="76" as="geometry" />
+          <mxGeometry x="891.5" y="1854.5" width="120" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-30" value="刘兴、李锟：扫描增加杭州数采场景和物资资产" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1016.5" y="1857" width="120" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-31" value="上海" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="1739" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1402" y="1643" width="50" height="388" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
