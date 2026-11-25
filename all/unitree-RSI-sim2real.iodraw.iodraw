@@ -474,19 +474,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-12" value="下一阶段计划" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="559" y="2068" width="120" height="60" as="geometry" />
+          <mxGeometry x="2005" y="1621" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-13" value="4090多卡多机并行&lt;br&gt;并行最优配置，渲染加速，资源调度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="299" y="2202" width="120" height="60" as="geometry" />
+          <mxGeometry x="1745" y="1755" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-15" value="工具协作增加和实现" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="431" y="2202" width="120" height="60" as="geometry" />
+          <mxGeometry x="1877" y="1755" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-17" value="skill版本管理实现和持续累积复用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="559" y="2202" width="120" height="60" as="geometry" />
+          <mxGeometry x="2005" y="1755" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-19" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="692" y="2202" width="120" height="60" as="geometry" />
+          <mxGeometry x="2138" y="1755" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="925" y="1643" width="50" height="388" as="geometry" />
