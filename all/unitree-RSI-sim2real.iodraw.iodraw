@@ -1,9 +1,12 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0" version="24.7.17">
   <diagram name="第 1 页" id="WdLepp6qu_4xCRCFHBoQ">
-    <mxGraphModel dx="1963" dy="1155" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1870" dy="1100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="McMWv03wA4Cba6DlImoy-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="31" y="1554" width="2257" height="550" as="geometry" />
+        </mxCell>
         <mxCell id="o3LDnDbFqSWHPQP9b67m-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="63" y="68" width="1228" height="719" as="geometry" />
         </mxCell>
@@ -367,29 +370,29 @@
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="McMWv03wA4Cba6DlImoy-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="968.8499755859375" y="1825.433349609375" as="targetPoint" />
+            <mxPoint x="966.8499755859375" y="1868.433349609375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7vwJbKyLC-0Tn3wuD-BH-2" target="McMWv03wA4Cba6DlImoy-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-2" value="UniRSI共建分工" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="723" y="1529" width="454" height="171" as="geometry" />
+          <mxGeometry x="721" y="1572" width="454" height="171" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-4" value="李明益：real2sim流程方法引入、nav harness适配、资产任务自动化组合引入" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="186" y="1852" width="120" height="81" as="geometry" />
+          <mxGeometry x="184" y="1895" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-6" value="李兆林：资产可行性检验、机器人全身控制和数据采集流程、任务设计连通性、&lt;br&gt;拓展Unitree全本体" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="323" y="1849" width="120" height="79" as="geometry" />
+          <mxGeometry x="321" y="1892" width="120" height="79" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-10" value="薛乐仁：agent在线轨迹流记录与蒸馏实践" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="603" y="1853" width="120" height="76" as="geometry" />
+          <mxGeometry x="601" y="1896" width="120" height="76" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-12" value="殷成威：skill RSI方法引入+实践、sim2real真机流程示例" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="462.5" y="1853" width="120" height="75" as="geometry" />
+          <mxGeometry x="460.5" y="1896" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="7vwJbKyLC-0Tn3wuD-BH-14" value="李世坤：UniRSI架构设计和维护、skill设计和历史版本管理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="53" y="1852" width="123" height="83" as="geometry" />
+          <mxGeometry x="51" y="1895" width="123" height="83" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-1" target="o9Qu9Rjtpg5NBmvVGQ0j-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -450,16 +453,16 @@
           <mxGeometry x="234" y="2535" width="55" height="48" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-3" value="北京" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="331" y="1749" width="120" height="60" as="geometry" />
+          <mxGeometry x="329" y="1792" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="366" y="1494" width="50" height="686" as="geometry" />
+          <mxGeometry x="364" y="1537" width="50" height="686" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-8" value="杭州" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1749" width="120" height="60" as="geometry" />
+          <mxGeometry x="888" y="1792" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-11" value="王舒淇：自部署资源配置调度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="53" y="1949" width="122" height="83" as="geometry" />
+          <mxGeometry x="51" y="1992" width="122" height="83" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McMWv03wA4Cba6DlImoy-12" target="McMWv03wA4Cba6DlImoy-13">
           <mxGeometry relative="1" as="geometry" />
@@ -474,40 +477,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-12" value="下一阶段计划" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2005" y="1621" width="120" height="60" as="geometry" />
+          <mxGeometry x="2003" y="1664" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-13" value="4090多卡多机并行&lt;br&gt;并行最优配置，渲染加速，资源调度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1745" y="1755" width="120" height="60" as="geometry" />
+          <mxGeometry x="1743" y="1798" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-15" value="工具协作增加和实现" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1877" y="1755" width="120" height="60" as="geometry" />
+          <mxGeometry x="1875" y="1798" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-17" value="skill版本管理实现和持续累积复用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2005" y="1755" width="120" height="60" as="geometry" />
+          <mxGeometry x="2003" y="1798" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-19" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2138" y="1755" width="120" height="60" as="geometry" />
+          <mxGeometry x="2136" y="1798" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="925" y="1643" width="50" height="388" as="geometry" />
+          <mxGeometry x="923" y="1686" width="50" height="388" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-28" value="刘兴、李锟：扫描增加杭州数采场景和物资资产" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="763.5" y="1852" width="120" height="76" as="geometry" />
+          <mxGeometry x="761.5" y="1895" width="120" height="76" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-29" value="刘兴、李锟：扫描增加杭州数采场景和物资资产" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="891.5" y="1854.5" width="120" height="76" as="geometry" />
+          <mxGeometry x="889.5" y="1897.5" width="120" height="76" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-30" value="刘兴、李锟：扫描增加杭州数采场景和物资资产" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1016.5" y="1857" width="120" height="76" as="geometry" />
+          <mxGeometry x="1014.5" y="1900" width="120" height="76" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-31" value="上海" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1367" y="1749" width="120" height="60" as="geometry" />
+          <mxGeometry x="1365" y="1792" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1402" y="1643" width="50" height="388" as="geometry" />
+          <mxGeometry x="1400" y="1686" width="50" height="388" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-34" value="赵紫阳、袁卓青、于晨彬：扫描增加上海数采场景和物资资产、使用不同harness框架推进场景任务的sim rsi和real2sim2real" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1254.5" y="1859" width="345" height="76" as="geometry" />
+          <mxGeometry x="1252.5" y="1902" width="345" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
