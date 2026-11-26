@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0" version="24.7.17">
   <diagram name="第 1 页" id="WdLepp6qu_4xCRCFHBoQ">
-    <mxGraphModel dx="1785" dy="1050" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1848" dy="1050" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -530,8 +530,8 @@
         <mxCell id="McMWv03wA4Cba6DlImoy-50" value="tools混合协议与持久化共享&lt;div&gt;重工具：MCP server&lt;/div&gt;&lt;div&gt;轻工具：内置functioncall&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="661" y="2352" width="167" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="McMWv03wA4Cba6DlImoy-52" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="898" y="2082" width="120" height="60" as="geometry" />
+        <mxCell id="McMWv03wA4Cba6DlImoy-52" value="数据轨迹保存和管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1369" y="2352" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
