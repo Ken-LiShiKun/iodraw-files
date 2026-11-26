@@ -512,14 +512,20 @@
         <mxCell id="McMWv03wA4Cba6DlImoy-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McMWv03wA4Cba6DlImoy-45" target="McMWv03wA4Cba6DlImoy-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McMWv03wA4Cba6DlImoy-45" target="McMWv03wA4Cba6DlImoy-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-45" value="几个需要讨论的问题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="898" y="2222" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-46" value="skill记录哪些内容（文本/code）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="686" y="2320" width="157" height="60" as="geometry" />
+          <mxGeometry x="879.5" y="2354" width="157" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-48" value="跨本体如何抽象技能的code（加unitreesdkpy adapter）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1033" y="2318" width="231" height="60" as="geometry" />
+          <mxGeometry x="1068" y="2360" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-50" value="tools混合协议设置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="686" y="2352" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
