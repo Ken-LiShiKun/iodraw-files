@@ -518,6 +518,9 @@
         <mxCell id="McMWv03wA4Cba6DlImoy-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McMWv03wA4Cba6DlImoy-45" target="McMWv03wA4Cba6DlImoy-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McMWv03wA4Cba6DlImoy-45" target="McMWv03wA4Cba6DlImoy-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-45" value="几个需要讨论的问题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="898" y="2222" width="120" height="60" as="geometry" />
         </mxCell>
@@ -532,6 +535,9 @@
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-52" value="数据轨迹保存和管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1369" y="2352" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-54" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1521" y="2352" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
