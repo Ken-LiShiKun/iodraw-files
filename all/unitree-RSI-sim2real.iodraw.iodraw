@@ -515,6 +515,9 @@
         <mxCell id="McMWv03wA4Cba6DlImoy-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McMWv03wA4Cba6DlImoy-45" target="McMWv03wA4Cba6DlImoy-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McMWv03wA4Cba6DlImoy-45" target="McMWv03wA4Cba6DlImoy-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-45" value="几个需要讨论的问题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="898" y="2222" width="120" height="60" as="geometry" />
         </mxCell>
@@ -524,8 +527,11 @@
         <mxCell id="McMWv03wA4Cba6DlImoy-48" value="跨本体如何抽象技能的code（加unitreesdkpy adapter）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1074" y="2352" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="McMWv03wA4Cba6DlImoy-50" value="tools混合协议设置&lt;br&gt;重工具（MCP server）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="686" y="2352" width="120" height="60" as="geometry" />
+        <mxCell id="McMWv03wA4Cba6DlImoy-50" value="tools混合协议与持久化共享&lt;div&gt;重工具：MCP server&lt;/div&gt;&lt;div&gt;轻工具：内置functioncall&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="661" y="2352" width="167" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McMWv03wA4Cba6DlImoy-52" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="898" y="2082" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
