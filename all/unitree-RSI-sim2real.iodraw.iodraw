@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0" version="24.7.17">
   <diagram name="第 1 页" id="WdLepp6qu_4xCRCFHBoQ">
-    <mxGraphModel dx="2181" dy="1283" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1785" dy="1050" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -516,10 +516,10 @@
           <mxGeometry x="898" y="2222" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-46" value="skill记录哪些内容（文本/code）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="742" y="2320" width="120" height="60" as="geometry" />
+          <mxGeometry x="686" y="2320" width="157" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="McMWv03wA4Cba6DlImoy-48" value="跨本体如何抽象code" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1063" y="2320" width="120" height="60" as="geometry" />
+        <mxCell id="McMWv03wA4Cba6DlImoy-48" value="跨本体如何抽象技能的code（加unitreesdkpy adapter）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1033" y="2318" width="231" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
