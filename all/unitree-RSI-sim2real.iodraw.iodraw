@@ -422,29 +422,17 @@
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-8" value="离线skill&lt;br&gt;【加速agent生成能够完成任务的code】" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="51" y="2645" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-9" target="o9Qu9Rjtpg5NBmvVGQ0j-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-9" value="在线agent介入" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="51" y="2845" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-10" target="o9Qu9Rjtpg5NBmvVGQ0j-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-10" value="在线agent介入" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="251" y="2845" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-12" target="o9Qu9Rjtpg5NBmvVGQ0j-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-12" value="无skill" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="51" y="2922" width="120" height="60" as="geometry" />
+          <mxGeometry x="57" y="2843" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-15" target="o9Qu9Rjtpg5NBmvVGQ0j-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-15" value="在线skill&lt;br&gt;【引导agent从错误中纠错恢复/在线快速调节的经验】" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="251" y="2922" width="120" height="60" as="geometry" />
+          <mxGeometry x="57" y="2920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-16" value="&lt;div&gt;本体相关skill&lt;/div&gt;【本体特性和可达范围、末端执行器特性】" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="2639" width="134" height="48" as="geometry" />
@@ -538,6 +526,9 @@
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-54" value="多种本体sdk和运控引入" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490.25" y="2352" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S5MXa0wEtuINKMSMCbf6-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="756" y="2616" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
