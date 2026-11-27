@@ -449,8 +449,8 @@
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-16" value="&lt;div&gt;本体相关skill&lt;/div&gt;【本体特性和可达范围、末端执行器特性】" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="2639" width="134" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-19" value="本体无关skill" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="2708" width="55" height="48" as="geometry" />
+        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-19" value="&lt;div&gt;本体无关skill&lt;/div&gt;&lt;div&gt;【locate、grasp、move、transport】&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="2708" width="138" height="48" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-3" value="北京" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="329" y="1792" width="120" height="60" as="geometry" />
