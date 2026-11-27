@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0" version="24.7.17">
   <diagram name="第 1 页" id="WdLepp6qu_4xCRCFHBoQ">
-    <mxGraphModel dx="1785" dy="1050" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1061" dy="624" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -446,8 +446,8 @@
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-15" value="在线skill&lt;br&gt;【引导agent从错误中纠错恢复/在线快速调节的经验】" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="251" y="2922" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-16" value="本体相关skill" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="2639" width="55" height="48" as="geometry" />
+        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-16" value="&lt;div&gt;本体相关skill&lt;/div&gt;【本体特性和可达范围、末端执行器特性】" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="2639" width="134" height="48" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-19" value="本体无关skill" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="2708" width="55" height="48" as="geometry" />
