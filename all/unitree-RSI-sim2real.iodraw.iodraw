@@ -403,8 +403,8 @@
         <mxCell id="S5MXa0wEtuINKMSMCbf6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-2" target="S5MXa0wEtuINKMSMCbf6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-2" value="【双混架构】&lt;br&gt;在线agent介入——遇到问题查阅在线skill&lt;br&gt;+&lt;br&gt;离线agent复盘——更新离线skill经验和在线纠错skill" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="499" y="2692" width="120" height="103" as="geometry" />
+        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-2" value="【双混架构】&lt;br&gt;在线agent介入——遇到问题查阅在线skill&lt;br&gt;+&lt;br&gt;&lt;div&gt;离线agent复盘——更新离线skill经验和在线纠错skill&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;sim RSI&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="499" y="2692" width="120" height="157" as="geometry" />
         </mxCell>
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-8" target="o9Qu9Rjtpg5NBmvVGQ0j-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -533,11 +533,11 @@
         <mxCell id="S5MXa0wEtuINKMSMCbf6-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S5MXa0wEtuINKMSMCbf6-5" target="S5MXa0wEtuINKMSMCbf6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S5MXa0wEtuINKMSMCbf6-5" value="sim2real skill" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="689" y="2802" width="139" height="60" as="geometry" />
+        <mxCell id="S5MXa0wEtuINKMSMCbf6-5" value="&lt;div&gt;sim2real skill&lt;/div&gt;&lt;div&gt;【专门解决sim2real gap】&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="689" y="2878" width="139" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S5MXa0wEtuINKMSMCbf6-7" value="&lt;div&gt;sim2real真机部署RSI&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="699" y="2713.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="698.5" y="2740.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
