@@ -1,9 +1,12 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0" version="24.7.17">
   <diagram name="第 1 页" id="WdLepp6qu_4xCRCFHBoQ">
-    <mxGraphModel dx="913" dy="537" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1309" dy="770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S5MXa0wEtuINKMSMCbf6-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="32" y="2514" width="824" height="495" as="geometry" />
+        </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="25" y="1544" width="2257" height="550" as="geometry" />
         </mxCell>
@@ -434,13 +437,13 @@
         <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o9Qu9Rjtpg5NBmvVGQ0j-15" target="o9Qu9Rjtpg5NBmvVGQ0j-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-15" value="在线skill&lt;br&gt;【引导agent从错误中纠错恢复/在线快速调节的经验】" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-15" value="在线skill&lt;br&gt;【引导agent从错误中纠错恢复/在线快速调节的经验】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="57" y="2920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-16" value="&lt;div&gt;本体相关skill&lt;/div&gt;【本体特性和可达范围、末端执行器特性】" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-16" value="&lt;div&gt;本体相关skill&lt;/div&gt;【本体特性和可达范围、末端执行器特性】" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="2639" width="134" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-19" value="&lt;div&gt;本体无关skill&lt;/div&gt;&lt;div&gt;【locate、grasp、move、transport】&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="o9Qu9Rjtpg5NBmvVGQ0j-19" value="&lt;div&gt;本体无关skill&lt;/div&gt;&lt;div&gt;【locate、grasp、move、transport】&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="2708" width="138" height="48" as="geometry" />
         </mxCell>
         <mxCell id="McMWv03wA4Cba6DlImoy-3" value="北京" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -533,11 +536,14 @@
         <mxCell id="S5MXa0wEtuINKMSMCbf6-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S5MXa0wEtuINKMSMCbf6-5" target="S5MXa0wEtuINKMSMCbf6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S5MXa0wEtuINKMSMCbf6-5" value="&lt;div&gt;sim2real skill&lt;/div&gt;&lt;div&gt;【专门解决sim2real gap】&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S5MXa0wEtuINKMSMCbf6-5" value="&lt;div&gt;sim2real skill&lt;/div&gt;&lt;div&gt;【专门解决sim2real gap】&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="689" y="2878" width="139" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S5MXa0wEtuINKMSMCbf6-7" value="&lt;div&gt;sim2real真机部署RSI&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="698.5" y="2740.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S5MXa0wEtuINKMSMCbf6-10" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;UniRSI 4种skill分类&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265.75" y="2541" width="208" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
